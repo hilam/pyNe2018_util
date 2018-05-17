@@ -1,0 +1,113 @@
+ID,Data,Início,Final,Local,Título,Palestrante,E-mail,Bio,Foto,Alias
+1,2018-05-24 00:00:00,08:45:00,10:15:00,[LAB] GAROTAS DO ENIAC,Django Girls,,,,,
+2,2018-05-24 00:00:00,08:45:00,10:15:00,[LAB] ADA LOVELACE,Maratona de programação,,,,,
+3,2018-05-24 00:00:00,08:45:00,10:15:00,[LAB] GRACE HOPPER,Linux & Python 101,Newton Galiza,,,,
+4,2018-05-24 00:00:00,08:45:00,09:00:00,[SALA] HIPÁCIA DE ALEXANDRIA,Lightning Talk (3 de 5min),,,,,
+5,2018-05-24 00:00:00,08:45:00,09:00:00,[SALA] KAREN SPARK JONES,Lightning Talk (3 de 5min),,,,,
+6,2018-05-24 00:00:00,09:00:00,09:35:00,[SALA] HIPÁCIA DE ALEXANDRIA,"Big Data em Saúde: Análises de dados com Python e Spark, utilizando algoritmos inteligentes para o suporte à decisão em saúde.",Paulo César Brito,paulo.cesar1294@gmail.com,"Bacharel em Ciência da Computação pela UFCG. Mestrando em Ciência e Tecnologia em Saúde pela UEPB. Atua como Gerente de Inovação na Secretaria Municipal de Ciência, Tecnologia e Inovação em Campina Grande, onde é responsável pela criação de eventos e coordenação de projetos tecnológicos de integração da gestão pública municipal.",foto_paulo_cesar.jpg,paulocesar
+7,2018-05-24 00:00:00,09:00:00,09:35:00,[SALA] KAREN SPARK JONES,Contabilidade: mal necessário ou ferramenta indispensável?,Bruna Soares,brunasoares.2409@gmail.com,"Bruna Soares, 23 anos, piauiense criada no Maranhão, formada em Ciências Contábeis, em paralelo cantora e entusiasta do uso de tecnologias para melhor desempenho da gestão empresarial.",BrunaSoares.jpg,bruna
+8,2018-05-24 00:00:00,09:35:00,10:10:00,[SALA] HIPÁCIA DE ALEXANDRIA,Hacking Ultrasound Machines with Python and Open Source Tools,pasknel,pasknel@hotmail.com,,,
+9,2018-05-24 00:00:00,09:35:00,10:10:00,[SALA] KAREN SPARK JONES,"Python IoT – Detecção e Reconhecimento de Faces, aplicações na sociedade",Erlon Júnior,ejrflaut@hotmail.com,"Cursa Ciência da Computação, freelancer como PenTester e Desenvolvedor, trabalha atualmente como Pesquisador e Desenvolvedor IoT no CTPD (Centro Tecnológico de Pesquisa e Desenvolvimento). Programa em Pascal, Python, Ruby, C/C++, apaixonado por Segurança da Informação, Hacking e muitas outras áreas de TI.",avatar.png,erlon
+10,2018-05-24 00:00:00,10:10:00,10:15:00,[SALA] HIPÁCIA DE ALEXANDRIA,Lightning Talk (1 de 5min),,,,,
+11,2018-05-24 00:00:00,10:10:00,10:15:00,[SALA] KAREN SPARK JONES,Lightning Talk (1 de 5min),,,,,
+12,2018-05-24 00:00:00,10:15:00,10:30:00,FREETIME,Coffee Break,,,,,
+13,2018-05-24 00:00:00,10:30:00,12:00:00,[LAB] GAROTAS DO ENIAC,Django Girls,,,,,
+14,2018-05-24 00:00:00,10:30:00,12:00:00,[LAB] ADA LOVELACE,Maratona de programação,,,,,
+15,2018-05-24 00:00:00,10:30:00,12:00:00,[LAB] GRACE HOPPER,Linux & Python 101,Newton Galiza,,,,
+16,2018-05-24 00:00:00,10:30:00,10:40:00,[SALA] HIPÁCIA DE ALEXANDRIA,Lightning Talk (2 de 5min),,,,,
+17,2018-05-24 00:00:00,10:30:00,10:40:00,[SALA] KAREN SPARK JONES,Lightning Talk (2 de 5min),,,,,
+18,2018-05-24 00:00:00,10:40:00,11:15:00,[SALA] HIPÁCIA DE ALEXANDRIA,Como OpenStack faz Python uma linguagem de programação melhor e vice-versa,raildo,raildom@gmail.com,,avatar.png,raildo
+19,2018-05-24 00:00:00,10:40:00,11:15:00,[SALA] KAREN SPARK JONES,A Wrapper Tool for Transit API at Teresina-PI using Python,Guilherme Simeão,grodrigues.simeao@gmail.com,"Acadêmico em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí, atualmente cursando o 5° módulo. Mudança e desafios são o que me movem. Além de programador python, estou imergindo no universo JavaScript.",Guilherme.jpg,guilherme
+20,2018-05-24 00:00:00,11:15:00,11:50:00,[SALA] HIPÁCIA DE ALEXANDRIA,Web2py Desenvolvimento Web,Ovídio Marinho,ovidioccg@gmail.com,"Graduado em Sistemas Para Internet e Pos-Graduado em Segurança da Informação, Desenvolvedor de Sistemas atualmente na ITJP.NET.BR, Trabalha com Web2py, desenvolvendo sistemas para web e Treinamentos e suporte na ferramenta.",Ovidio.jpg,ovidio
+21,2018-05-24 00:00:00,11:15:00,11:50:00,[SALA] KAREN SPARK JONES,Sonicbox: Fazendo Música com Sonic Pi e Kivy,Diego Guimarães,diegodukao@gmail.com,"Bacharel em Ciência da Computação pela UFF, pythonista, usuário e ativista de Software Livre, apaixonado por música e tecnologia e pelas oportunidades que as duas juntas trazem.",diego.jpg,diego
+22,2018-05-24 00:00:00,11:50:00,12:00:00,[SALA] HIPÁCIA DE ALEXANDRIA,Lightning Talk (2 de 5min),,,,,
+23,2018-05-24 00:00:00,11:50:00,12:00:00,[SALA] KAREN SPARK JONES,Lightning Talk (2 de 5min),,,,,
+24,2018-05-24 00:00:00,12:00:00,13:30:00,FREETIME,Almoço,,,,,
+25,2018-05-24 00:00:00,13:30:00,15:30:00,[LAB] GAROTAS DO ENIAC,Django Girls,,,,,
+26,2018-05-24 00:00:00,13:30:00,15:30:00,[LAB] ADA LOVELACE,Domain Driven Design (DDD) aplicado em Python para ambientes ágeis,Jhonatan Teixeira,,,,
+27,2018-05-24 00:00:00,13:30:00,15:30:00,[LAB] GRACE HOPPER,Introdução à ciência de dados com Python,Prof. Dr. Adriano A. Santos,,,,
+28,2018-05-24 00:00:00,13:30:00,14:05:00,[SALA] HIPÁCIA DE ALEXANDRIA,Aplicações de Python à Neurociência Computacional,Paulo Ribeiro Lins Júnior,paulo.ribeiro.lins.jr@gmail.com,"Professor de estatística, TIC e métodos numéricos no IFPB-CG, usa Python para fins científicos há mais de 8 anos, pesquisa da área de processamento de informação, fã de computação, matemática e de sua mistura!",PauloRibeiro.jpg,paulo
+29,2018-05-24 00:00:00,13:30:00,14:05:00,[SALA] KAREN SPARK JONES,Event Sourcing em Python,Patrick Porto,patrick.s.porto@gmail.com,"Engenheiro de software na Stone Pagamentos, atuando principalmente em serviços de Banking.",Patrick.jpg,patrick
+30,2018-05-24 00:00:00,14:05:00,14:40:00,[SALA] HIPÁCIA DE ALEXANDRIA,O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços,Rael Max,contato@raelmax.com,"Desenvolvedor apaixonado por opensource, colaboração e qualidade de software. É participante ativo da comunidade Python e trabalha há mais de 8 anos desenvolvendo as mais variadas soluções. Atualmente é desenvolvedor do time de plataformas da Globo.com.",Rael.jpeg,rael
+31,2018-05-24 00:00:00,14:05:00,14:40:00,[SALA] KAREN SPARK JONES,Python e InfoSec - Automatizando o trabalho do Pentester,Humberto Júnior,halencarjunior@protonmail.com,"Graduado em Sistemas para Internet, possui pós-graduação em Segurança da Informação, é apaixonado por Python e utiliza a linguagem para automatizar rotinas entediantes do dia-a-dia na profissão. Trabalha atualmente com Governança, Segurança da Informação e Infraestrutura em Cloud Computing na Conductor Tecnologia em João Pessoa e é professor da graduação e pós-graduação na faculdade IESP, na pós-graduação em Segurança da Informação da faculdade Estácio e na disciplina de Segurança em Aplicações Web na pós-graduação em Desenvolvimento Web da faculdade Unipê.",HumbertoJr.jpg,humberto
+32,2018-05-24 00:00:00,14:40:00,15:15:00,[SALA] HIPÁCIA DE ALEXANDRIA,Normalização: quando usar e quando não usar em Django,Flávio Juvenal,flavio@vinta.com.br,"Sócio da Vinta Software (https://www.vinta.com.br/), trabalha com produtos em Django e React para clientes internacionais. É apaixonado por código de qualidade e tenta aplicar o Zen of Python a tudo.",FlavioJuvenal.jpg,flavio
+33,2018-05-24 00:00:00,14:40:00,15:15:00,[SALA] KAREN SPARK JONES,Microservices em Python: desafios e soluções,Marcelo Vieira,marcelo.vieira@corp.globo.com,,avatar.png,marcelo
+34,2018-05-24 00:00:00,15:15:00,15:30:00,[SALA] HIPÁCIA DE ALEXANDRIA,Lightning Talk (2 de 5min),,,,,
+35,2018-05-24 00:00:00,15:15:00,15:30:00,[SALA] KAREN SPARK JONES,Lightning Talk (2 de 5min),,,,,
+36,2018-05-24 00:00:00,15:30:00,15:45:00,FREETIME,Coffee Break,,,,,
+37,2018-05-24 00:00:00,15:45:00,17:00:00,[LAB] GAROTAS DO ENIAC,Django Girls,,,,,
+38,2018-05-24 00:00:00,15:45:00,17:00:00,[LAB] ADA LOVELACE,Domain Driven Design (DDD) aplicado em Python para ambientes ágeis,Jhonatan Teixeira,,,,
+39,2018-05-24 00:00:00,15:45:00,17:00:00,[LAB] GRACE HOPPER,Introdução à ciência de dados com Python,Prof. Dr. Adriano A. Santos,,,,
+40,2018-05-24 00:00:00,15:45:00,16:20:00,[SALA] HIPÁCIA DE ALEXANDRIA,PyNES - Construindo jogos para NES com Python,Newton Galiza,newtonjgaliza@gmail.com,"Formado em ADS pela Estácio Idez, criador do @packtfreebot, conheceu Python por um amigo , e desde então usa para tudo. Game Designer do jogo Nippon Heroes, narrador e jogador de RPG nas horas vagas.",Newton.jpg,newton
+41,2018-05-24 00:00:00,15:45:00,16:20:00,[SALA] KAREN SPARK JONES,[Web] Implementando suporte a multi-tenancy em uma aplicação crítica,Victor Torres,vpaivatorres@gmail.com,Desenvolvedor de software para web e trabalha com telefonia utilizando Python e FreeSWITCH na Evolux em Natal/RN.,VictorPaiva.jpg,victor
+42,2018-05-24 00:00:00,16:20:00,16:55:00,[SALA] HIPÁCIA DE ALEXANDRIA,Visão Computacional com Python para usuários de MATLAB,Valeska Uchôa,valeskauchoa@gmail.com,"Formada em Ciência da Computação, atualmente faz parte do programa de Mestrado da UFPI, com ênfase em Visão Computacional, mais especificamente Reconhecimento Facial. Além disso, faz parte do grupo PyLadies Teresina.",Valeska.jpg,valeska
+43,2018-05-24 00:00:00,16:20:00,16:55:00,[SALA] KAREN SPARK JONES,Pull Requests: Mergeando boas práticas no seu projeto,Luca Bezerra,luca@vinta.com.br,"Graduado pelo IFPE e Mestre em Ciência da Computação pela UFPE, onde usou Python para analisar e testar teorias da musicologia. Atualmente atua como desenvolvedor full stack (Django/React) na Vinta Software, em Recife, PE.",Luca.jpg,luca
+44,2018-05-24 00:00:00,16:55:00,17:00:00,[SALA] HIPÁCIA DE ALEXANDRIA,Lightning Talk (1 de 5min),,,,,
+45,2018-05-24 00:00:00,16:55:00,17:00:00,[SALA] KAREN SPARK JONES,Lightning Talk (1 de 5min),,,,,
+46,2018-05-24 00:00:00,17:00:00,18:00:00,-,Cerimônia de Abertura,,,,,
+47,2018-05-25 00:00:00,08:15:00,08:45:00,FREETIME,Credenciamento,,,,,
+48,2018-05-25 00:00:00,08:45:00,10:15:00,[LAB] JEAN SAMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
+49,2018-05-25 00:00:00,08:45:00,10:15:00,[LAB] RADIA PERLMAN,Usando BDs NoSQL com Python,Luiz Cláudio Silva,luizclaudio@gmail.com,,,
+50,2018-05-25 00:00:00,08:45:00,10:15:00,[LAB] CAROL SHAW,Introdução ao machine learning em saúde,Hugo Soares,,,,
+51,2018-05-25 00:00:00,08:45:00,09:00:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (3 de 5min),,,,,
+52,2018-05-25 00:00:00,08:45:00,09:00:00,[SALA] FRANCES ALLEN,Lightning Talk (3 de 5min),,,,,
+53,2018-05-25 00:00:00,09:00:00,09:35:00,[SALA] ROBERTA WILLIAMS,Construindo API REST com Django REST Framework,Werberth Vinícius,werberthvinicius@gmail.com,"Estudante do curso de Ciência da Computação pela Universidade Estadual do Piauí, Desenvolvedor Web e membro organizador do PUG-PHB (Grupo de Usuários de Python de Parnaíba-PI)",Werberth.jpg,werberth
+54,2018-05-25 00:00:00,09:00:00,09:35:00,[SALA] FRANCES ALLEN,Domando a irreversibilidade com Feature Flags,Hugo Bessa,hugo@bessa.me,"Desenvolvedor Fullstack e músico amador. Está em um relacionamento sério com Single Page Applications e APIs REST desde 2013. Adora design patterns, design de interação, guitarra e meditação.",hugo-bessa.jpg,hugo
+55,2018-05-25 00:00:00,09:35:00,10:10:00,[SALA] ROBERTA WILLIAMS,[Educação] Pensamento Computacional com Blocos e Python,Givanaldo Rocha de Souza,givanaldo@gmail.com,"Professor de Sistemas de Informação do IFRN Campus Parnamirim, graduado em Engenharia de Computação e Doutor em Ciência da Computação. Trabalha desde 2012 com a disciplina de Algoritmos com a linguagem Python e tem como objetivo despertar nos seus alunos o gosto pela programação de computadores.",Givanaldo.jpg,givanaldo
+56,2018-05-25 00:00:00,09:35:00,10:10:00,[SALA] FRANCES ALLEN,"Faça seu próprio Google Home com um Raspberry Pi, Python e o Google Assistant SDK",alvarowolfx,alvarowolfx@gmail.com,,avatar.png,alvaro
+57,2018-05-25 00:00:00,10:10:00,10:15:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (1 de 5min),,,,,
+58,2018-05-25 00:00:00,10:10:00,10:15:00,[SALA] FRANCES ALLEN,Lightning Talk (1 de 5min),,,,,
+59,2018-05-25 00:00:00,10:15:00,10:30:00,FREETIME,Coffee Break,,,,,
+60,2018-05-25 00:00:00,10:30:00,12:00:00,[LAB] JEAN SAMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
+61,2018-05-25 00:00:00,10:30:00,12:00:00,[LAB] RADIA PERLMAN,Usando BDs NoSQL com Python,Luiz Cláudio,,,,
+62,2018-05-25 00:00:00,10:30:00,12:00:00,[LAB] CAROL SHAW,Introdução ao machine learning em saúde,Hugo Soares,,,,
+63,2018-05-25 00:00:00,10:30:00,10:40:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (2 de 5min),,,,,
+64,2018-05-25 00:00:00,10:30:00,10:40:00,[SALA] FRANCES ALLEN,Lightning Talk (2 de 5min),,,,,
+65,2018-05-25 00:00:00,10:40:00,11:15:00,[SALA] ROBERTA WILLIAMS,Database as a Service com python na globo.com,Mauro Murari,mauro_murari@hotmail.com,"Tenho contato com python desde que ele salvou meu TCC em 2014, atualmente sou engenheiro de software na equipe de banco de dados da globo.com, sempre com python no coração.",MauroMurari.jpg,mauro
+66,2018-05-25 00:00:00,10:40:00,11:15:00,[SALA] FRANCES ALLEN,Perdendo o medo da WEB com Django,Ryllari Marques,ryllarimarques@gmail.com,22 anos. Potiguar com feeling cearense. Integrante do PyLadies Fortaleza. Programa desde os 16. Desenvolvedora Júnior na Morphus Segurança da Informação. Estudante de Engenharia de Computação no IFCE.,Ryllari.jpg,ryllari
+67,2018-05-25 00:00:00,11:15:00,11:50:00,[SALA] ROBERTA WILLIAMS,"Física e Python, uma relação simples e prática!",Ana Maria Gomes,gomesabam@gmail.com,Pylady e estudante de física na Universidade Federal do Piauí. Atua na área da física teórica com o Estudo das Propriedades Mecânicas de Nanotubos de Carbono com deformações estruturais.,AnaGomes.jpg,anagomes
+68,2018-05-25 00:00:00,11:15:00,11:50:00,[SALA] FRANCES ALLEN,Programando o seu processo de software,Robertson Novelino,rob@vinta.com.br,"Criador de ferramentas organizacionais, tendo elas linhas de código ou não. Gosta de ler sobre coisas loucas como Futurismo, Psicologia, educação, etc. Quando vai escrever código, usa Python/Django.",robertson.jpg,robertson
+69,2018-05-25 00:00:00,11:50:00,12:00:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (2 de 5min),,,,,
+70,2018-05-25 00:00:00,11:50:00,12:00:00,[SALA] FRANCES ALLEN,Lightning Talk (2 de 5min),,,,,
+71,2018-05-25 00:00:00,12:00:00,13:30:00,FREETIME,Almoço,,,,,
+72,2018-05-25 00:00:00,13:30:00,15:30:00,[LAB] JEAN SAMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
+73,2018-05-25 00:00:00,13:30:00,15:30:00,[LAB] RADIA PERLMAN,TDD com PyTest,Luciano Ramalho,,,,
+74,2018-05-25 00:00:00,13:30:00,15:30:00,[LAB] CAROL SHAW,Introdução a Data Science com Pandas e Scikit-learn,Gileno Filho,,,,
+75,2018-05-25 00:00:00,13:30:00,14:05:00,[SALA] ROBERTA WILLIAMS,Multi-Tenancy: Uma introdução à arquitetura,Arimatea Neto,arineto30@gmail.com,"Graduado em Ciência da Computação pela UFPE e com especialização em Ciência da Dados e Analytics pela UPE, tenho trabalhado atualmente como desenvolvedor Full-Stack com Django e React na Vinta.",arimatea.png,arimatea
+76,2018-05-25 00:00:00,13:30:00,14:05:00,[SALA] FRANCES ALLEN,PyLadies e Django Girls: ajudando a tornar a comunidade Python mais diversa e mais inclusiva,Débora Azevedo,debbiechan_deh@hotmail.com,"Técnica em Informática e Redes pelo IFRN, atualmente estuda Bacharelado em TI na UFRN. Cofundadora do PyLadies Natal, atua no PyLadiesBR desde o começo. Trabalha como professora e ministra curso de Python nas horas vagas.",Debora.jpg,debora
+77,2018-05-25 00:00:00,14:05:00,14:40:00,[SALA] ROBERTA WILLIAMS,Utilizando Python para resolver questões de Capture The Flag (CTF),Diógenes Fernandes,diofeher@gmail.com,"Desenvolvedor blockchain e full-stack com mais de 8 anos de experiência profissional, tendo participado duas vezes do Google Summer of Code como estudante, atualmente core dev da blockchain Phore e jogador de Capture The Flag da FireShell.",Diogenes.jpeg,diogenes
+78,2018-05-25 00:00:00,14:05:00,14:40:00,[SALA] FRANCES ALLEN,Mapeando 1 milhão de recursos em uma Cloud,Ederson Brilhante,contato@edersonbrilhante.com.br,"Saiba como conseguimos mapear mais de 1 milhão de recursos da Cloud da Globo.com, que estão espalhados em dezenas de sistemas em um ambiente Everything as a Service.",Ederson.jpg,ederson
+79,2018-05-25 00:00:00,14:40:00,15:15:00,[SALA] ROBERTA WILLIAMS,Previsão de séries temporais com PyData e Inteligência Artificial,Rebeca Sarai,rebecasaraiaguiar@gmail.com,Desenvolvedora de software. Quase engenheira. Ama surf. Ama futebol. Entusiasta de criptomoedas.,RebecaSarai.jpg,rebeca
+80,2018-05-25 00:00:00,14:40:00,15:15:00,[SALA] FRANCES ALLEN,Escrevendo código flexivel com Design Patterns,Filipe Ximenes,filipeximenes@gmail.com,Xima é sócio da Vinta Software onde desenvolve aplicações web para clientes dos EUA e Brasil. Ele acredita que 'simples é melhor que complexo' deve ser um mantra para a maioria das coisas na vida.,FilipeXima.png,xima
+81,2018-05-25 00:00:00,15:15:00,15:30:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (3 de 5min),,,,,
+82,2018-05-25 00:00:00,15:15:00,15:30:00,[SALA] FRANCES ALLEN,Lightning Talk (3 de 5min),,,,,
+83,2018-05-25 00:00:00,15:30:00,15:45:00,FREETIME,Coffee Break,,,,,
+84,2018-05-25 00:00:00,15:45:00,17:45:00,[LAB] JEAN SAMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
+85,2018-05-25 00:00:00,15:45:00,17:45:00,[LAB] RADIA PERLMAN,TDD com PyTest,Luciano Ramalho,,,,
+86,2018-05-25 00:00:00,15:45:00,17:45:00,[LAB] CAROL SHAW,Introdução a Data Science com Pandas e Scikit-learn,Gileno Filho,,,,
+87,2018-05-25 00:00:00,15:45:00,16:20:00,[SALA] ROBERTA WILLIAMS,[Machine Learning] - Hackeando redes neurais com Python,Diogo Melo,diogoffmelo@gmail.com,"Físico de formação, desenvolvedor por coincidência e pythonista por escolha. Ultimamente gravitando em torno de Redes Neurais e Permacultura.",Diogo.jpg,diogo
+88,2018-05-25 00:00:00,15:45:00,16:20:00,[SALA] FRANCES ALLEN,Eventos itinerantes de empoderamento tecnológico na comunidade Python,Thais Viana e Jessica Temporal,,,,
+89,2018-05-25 00:00:00,16:20:00,16:55:00,[SALA] ROBERTA WILLIAMS,"Aplicação de técnicas de Coleta, processamento, Análise e execução de textos com NLTK e Frameworks de Machine Learning em Python, Integrados a ChatBots em computação cognitiva",Ricardo Roberto de Lima,ricardorobertolima@gmail.com,"Mestrado em Engenharia de Software, tem experiência em Arquitetura de Sistemas Distribuídos e Analíticos, BI e Big Data, plataformas em nuvem e cognitivas, HDFS, Hadoop, Spark, Java, Python e Scala.",RicardoRoberto.jpg,ricardo
+90,2018-05-25 00:00:00,16:20:00,16:55:00,[SALA] FRANCES ALLEN,"Melhorando a performance com concorrencia (concurrency), threading e IO.",jhonatan,jhonatan@voxtecnologia.com.br,,avatar.png,jhonatan
+91,2018-05-25 00:00:00,16:55:00,17:10:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (3 de 5min),,,,,
+92,2018-05-25 00:00:00,16:55:00,17:10:00,[SALA] FRANCES ALLEN,Lightning Talk (3 de 5min),,,,,
+93,2018-05-25 00:00:00,17:10:00,17:45:00,[SALA] ROBERTA WILLIAMS,Introdução a Machine Learning e Deep Learning com TensorFlow e Keras,Marianne Linhares,mariannelinharesm@gmail.com,"Ex-estagiária do Google onde trabalhou junto do time do TensorFlow, atualmente é aluna de graduação da UFCG onde estuda ciência da computação, pesquisa na área de Machine Learning e é Google Developer Expert no assunto do Brasil. Twitter: @hereismari",Marianne.jpeg,marianne
+94,2018-05-25 00:00:00,17:10:00,17:45:00,[SALA] FRANCES ALLEN,"Algoritmo Genético com Python - ""Fruto do acaso ou de um processo evolutivo?!""",Ana Paula da Silva Mendes,anapaula.ds.mendes@gmail.com,"20 anos, cursa Ciência da Computação na UFPI (5/8 semestre). Co-fundadora e co-organizadora da PyLadies Teresina. Tem uma iniciativa onde compartilho conhecimento chamada “Ana no Terminal”.",AnaPaula.jpeg,anapaula
+95,2018-05-26 00:00:00,08:45:00,09:00:00,TEATRO PYTHÔNICO,Lightning Talk (3 de 5min),,,,,
+96,2018-05-26 00:00:00,09:00:00,09:35:00,TEATRO PYTHÔNICO,"print(""Você já ensinou Python para uma pessoa hoje?"")",Soraya Roberta,,,,
+97,2018-05-26 00:00:00,09:35:00,10:10:00,TEATRO PYTHÔNICO,Sistemas de Recomendação da matemática a prática,Thais Viana,,,,
+98,2018-05-26 00:00:00,10:10:00,10:15:00,TEATRO PYTHÔNICO,Lightning Talk (1 de 5min),,,,,
+99,2018-05-26 00:00:00,10:15:00,10:30:00,FREETIME,Coffee Break,,,,,
+100,2018-05-26 00:00:00,10:30:00,10:40:00,TEATRO PYTHÔNICO,Lightning Talk (2 de 5min),,,,,
+101,2018-05-26 00:00:00,10:40:00,11:15:00,TEATRO PYTHÔNICO,Programação para jornalistas: 3 meses de experiências em uma redação,Judite Cypreste e Fernando Masanori,,,,
+102,2018-05-26 00:00:00,11:15:00,11:50:00,TEATRO PYTHÔNICO,Python & Kivy: Inclusão Mobile,Hildeberto Magalhães,hildeberto@gmail.com,"Graduado em Ciência da Computação, MBA em Gestão de Projetos, experiência profissional desde 1988 com desenvolvimento de sistemas. Considera Python a linguagem do novo século.",hilam.png,hilam
+103,2018-05-26 00:00:00,11:50:00,12:00:00,TEATRO PYTHÔNICO,Lightning Talk (2 de 5min),,,,,
+104,2018-05-26 00:00:00,12:00:00,13:30:00,FREETIME,Almoço,,,,,
+105,2018-05-26 00:00:00,13:30:00,14:05:00,TEATRO PYTHÔNICO,[Palestra 34],,,,,
+106,2018-05-26 00:00:00,14:05:00,14:40:00,TEATRO PYTHÔNICO,Serenata de Amor: Ciência de dados no mundo real,Jessica Temporal,,,,
+107,2018-05-26 00:00:00,14:40:00,15:15:00,TEATRO PYTHÔNICO,Além dos Paradigmas: dicas para escrever código Pythônico,Luciano Ramalho,,,,
+108,2018-05-26 00:00:00,15:15:00,15:30:00,TEATRO PYTHÔNICO,Lightning Talk (3 de 5min),,,,,
+109,2018-05-26 00:00:00,15:30:00,15:45:00,FREETIME,Coffee Break,,,,,
+110,2018-05-26 00:00:00,15:45:00,16:00:00,FREETIME,Momento para networking,,,,,
+111,2018-05-26 00:00:00,16:00:00,17:00:00,TEATRO PYTHÔNICO,[Painel],Keynotes,,,,
+112,2018-05-26 00:00:00,17:00:00,18:00:00,TEATRO PYTHÔNICO,Cerimônia de Encerramento,,,,,
