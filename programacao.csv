@@ -44,9 +44,9 @@ ID,Data,Início,Final,Local,Título,Palestrante,E-mail,Bio,Foto,Alias
 43,2018-05-24 00:00:00,16:20:00,16:55:00,[SALA] KAREN SPARK JONES,Pull Requests: Mergeando boas práticas no seu projeto,Luca Bezerra,luca@vinta.com.br,"Graduado pelo IFPE e Mestre em Ciência da Computação pela UFPE, onde usou Python para analisar e testar teorias da musicologia. Atualmente atua como desenvolvedor full stack (Django/React) na Vinta Software, em Recife, PE.",Luca.jpg,luca
 44,2018-05-24 00:00:00,16:55:00,17:00:00,[SALA] HIPÁCIA DE ALEXANDRIA,Lightning Talk (1 de 5min),,,,,
 45,2018-05-24 00:00:00,16:55:00,17:00:00,[SALA] KAREN SPARK JONES,Lightning Talk (1 de 5min),,,,,
-46,2018-05-24 00:00:00,17:00:00,18:00:00,-,Cerimônia de Abertura,,,,,
+46,2018-05-24 00:00:00,17:00:00,18:00:00,TEATRO PYTHÔNICO,Cerimônia de Abertura,,,,,
 47,2018-05-25 00:00:00,08:15:00,08:45:00,FREETIME,Credenciamento,,,,,
-48,2018-05-25 00:00:00,08:45:00,10:15:00,[LAB] JEAN SAMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
+48,2018-05-25 00:00:00,08:45:00,10:15:00,[LAB] JEAN SAMMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
 49,2018-05-25 00:00:00,08:45:00,10:15:00,[LAB] RADIA PERLMAN,Usando BDs NoSQL com Python,Luiz Cláudio Silva,luizclaudio@gmail.com,,,
 50,2018-05-25 00:00:00,08:45:00,10:15:00,[LAB] CAROL SHAW,Introdução ao machine learning em saúde,Hugo Soares,,,,
 51,2018-05-25 00:00:00,08:45:00,09:00:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (3 de 5min),,,,,
@@ -58,7 +58,7 @@ ID,Data,Início,Final,Local,Título,Palestrante,E-mail,Bio,Foto,Alias
 57,2018-05-25 00:00:00,10:10:00,10:15:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (1 de 5min),,,,,
 58,2018-05-25 00:00:00,10:10:00,10:15:00,[SALA] FRANCES ALLEN,Lightning Talk (1 de 5min),,,,,
 59,2018-05-25 00:00:00,10:15:00,10:30:00,FREETIME,Coffee Break,,,,,
-60,2018-05-25 00:00:00,10:30:00,12:00:00,[LAB] JEAN SAMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
+60,2018-05-25 00:00:00,10:30:00,12:00:00,[LAB] JEAN SAMMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
 61,2018-05-25 00:00:00,10:30:00,12:00:00,[LAB] RADIA PERLMAN,Usando BDs NoSQL com Python,Luiz Cláudio,,,,
 62,2018-05-25 00:00:00,10:30:00,12:00:00,[LAB] CAROL SHAW,Introdução ao machine learning em saúde,Hugo Soares,,,,
 63,2018-05-25 00:00:00,10:30:00,10:40:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (2 de 5min),,,,,
@@ -70,7 +70,7 @@ ID,Data,Início,Final,Local,Título,Palestrante,E-mail,Bio,Foto,Alias
 69,2018-05-25 00:00:00,11:50:00,12:00:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (2 de 5min),,,,,
 70,2018-05-25 00:00:00,11:50:00,12:00:00,[SALA] FRANCES ALLEN,Lightning Talk (2 de 5min),,,,,
 71,2018-05-25 00:00:00,12:00:00,13:30:00,FREETIME,Almoço,,,,,
-72,2018-05-25 00:00:00,13:30:00,15:30:00,[LAB] JEAN SAMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
+72,2018-05-25 00:00:00,13:30:00,15:30:00,[LAB] JEAN SAMMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
 73,2018-05-25 00:00:00,13:30:00,15:30:00,[LAB] RADIA PERLMAN,TDD com PyTest,Luciano Ramalho,,,,
 74,2018-05-25 00:00:00,13:30:00,15:30:00,[LAB] CAROL SHAW,Introdução a Data Science com Pandas e Scikit-learn,Gileno Filho,,,,
 75,2018-05-25 00:00:00,13:30:00,14:05:00,[SALA] ROBERTA WILLIAMS,Multi-Tenancy: Uma introdução à arquitetura,Arimatea Neto,arineto30@gmail.com,"Graduado em Ciência da Computação pela UFPE e com especialização em Ciência da Dados e Analytics pela UPE, tenho trabalhado atualmente como desenvolvedor Full-Stack com Django e React na Vinta.",arimatea.png,arimatea
@@ -82,7 +82,7 @@ ID,Data,Início,Final,Local,Título,Palestrante,E-mail,Bio,Foto,Alias
 81,2018-05-25 00:00:00,15:15:00,15:30:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (3 de 5min),,,,,
 82,2018-05-25 00:00:00,15:15:00,15:30:00,[SALA] FRANCES ALLEN,Lightning Talk (3 de 5min),,,,,
 83,2018-05-25 00:00:00,15:30:00,15:45:00,FREETIME,Coffee Break,,,,,
-84,2018-05-25 00:00:00,15:45:00,17:45:00,[LAB] JEAN SAMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
+84,2018-05-25 00:00:00,15:45:00,17:45:00,[LAB] JEAN SAMMET,Raspagem e Análise de Dados para Jornalistas,Fernando Masanori,,,,
 85,2018-05-25 00:00:00,15:45:00,17:45:00,[LAB] RADIA PERLMAN,TDD com PyTest,Luciano Ramalho,,,,
 86,2018-05-25 00:00:00,15:45:00,17:45:00,[LAB] CAROL SHAW,Introdução a Data Science com Pandas e Scikit-learn,Gileno Filho,,,,
 87,2018-05-25 00:00:00,15:45:00,16:20:00,[SALA] ROBERTA WILLIAMS,[Machine Learning] - Hackeando redes neurais com Python,Diogo Melo,diogoffmelo@gmail.com,"Físico de formação, desenvolvedor por coincidência e pythonista por escolha. Ultimamente gravitando em torno de Redes Neurais e Permacultura.",Diogo.jpg,diogo
@@ -92,9 +92,9 @@ ID,Data,Início,Final,Local,Título,Palestrante,E-mail,Bio,Foto,Alias
 91,2018-05-25 00:00:00,16:55:00,17:10:00,[SALA] ROBERTA WILLIAMS,Lightning Talk (3 de 5min),,,,,
 92,2018-05-25 00:00:00,16:55:00,17:10:00,[SALA] FRANCES ALLEN,Lightning Talk (3 de 5min),,,,,
 93,2018-05-25 00:00:00,17:10:00,17:45:00,[SALA] ROBERTA WILLIAMS,Introdução a Machine Learning e Deep Learning com TensorFlow e Keras,Marianne Linhares,mariannelinharesm@gmail.com,"Ex-estagiária do Google onde trabalhou junto do time do TensorFlow, atualmente é aluna de graduação da UFCG onde estuda ciência da computação, pesquisa na área de Machine Learning e é Google Developer Expert no assunto do Brasil. Twitter: @hereismari",Marianne.jpeg,marianne
-94,2018-05-25 00:00:00,17:10:00,17:45:00,[SALA] FRANCES ALLEN,"Algoritmo Genético com Python - ""Fruto do acaso ou de um processo evolutivo?!""",Ana Paula da Silva Mendes,anapaula.ds.mendes@gmail.com,"20 anos, cursa Ciência da Computação na UFPI (5/8 semestre). Co-fundadora e co-organizadora da PyLadies Teresina. Tem uma iniciativa onde compartilho conhecimento chamada “Ana no Terminal”.",AnaPaula.jpeg,anapaula
+94,2018-05-25 00:00:00,17:10:00,17:45:00,[SALA] FRANCES ALLEN,Algoritmo Genético com Python - 'Fruto do acaso ou de um processo evolutivo?!',Ana Paula da Silva Mendes,anapaula.ds.mendes@gmail.com,"20 anos, cursa Ciência da Computação na UFPI (5/8 semestre). Co-fundadora e co-organizadora da PyLadies Teresina. Tem uma iniciativa onde compartilho conhecimento chamada “Ana no Terminal”.",AnaPaula.jpeg,anapaula
 95,2018-05-26 00:00:00,08:45:00,09:00:00,TEATRO PYTHÔNICO,Lightning Talk (3 de 5min),,,,,
-96,2018-05-26 00:00:00,09:00:00,09:35:00,TEATRO PYTHÔNICO,"print(""Você já ensinou Python para uma pessoa hoje?"")",Soraya Roberta,,,,
+96,2018-05-26 00:00:00,09:00:00,09:35:00,TEATRO PYTHÔNICO,print('Você já ensinou Python para uma pessoa hoje?'),Soraya Roberta,,,,
 97,2018-05-26 00:00:00,09:35:00,10:10:00,TEATRO PYTHÔNICO,Sistemas de Recomendação da matemática a prática,Thais Viana,,,,
 98,2018-05-26 00:00:00,10:10:00,10:15:00,TEATRO PYTHÔNICO,Lightning Talk (1 de 5min),,,,,
 99,2018-05-26 00:00:00,10:15:00,10:30:00,FREETIME,Coffee Break,,,,,
