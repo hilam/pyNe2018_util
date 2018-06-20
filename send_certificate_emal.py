@@ -30,10 +30,6 @@ from sndmail import send_mail
 # configurar log
 logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 
-# dados gerais do e-mail
-mail_from = 'nordeste@python.org.br'
-assunto = '[Python Nordeste 2018] Certificado (pdf anexo)'
-
 # dicionario para tstes de envio
 # participantes = [
 #     {
@@ -50,6 +46,9 @@ assunto = '[Python Nordeste 2018] Certificado (pdf anexo)'
 #     }
 # ]
 
+# dados gerais do e-mail
+mail_from = 'nordeste@python.org.br'
+assunto = '[Python Nordeste 2018] Certificado (pdf anexo)'
 # dataframe com participantes
 participantes = pd.read_excel('resource/certificados/dados-emails.xlsx')
 # arquivo com registro de e-mails enviados
@@ -100,13 +99,13 @@ for indice, registro in participantes.iterrows():
     mail_to = registro['Email']
     arquivo_certificado = (
         f'resource/certificados/certificado-'
-        f'python-nordeste_Parte{indice}.pdf')
+        f'python-nordeste_Parte{indice+1}.pdf')
 
     # envio do email
     try:
         send_mail(mail_from, mail_to, assunto, conteudo, arquivo_certificado)
         participantes.loc[indice, 'Envio'] = 'S'
-        logging.info(f'Email enviado para {nome} {sobrenome}.')
+        logging.info(f'Certificado {arquivo_certificado} enviado para {nome} {sobrenome}.')
     except Exception as e:
         logging.error(f'Erro enviando para {nome} {sobrenome}: {mail_to}')
         logging.error(f'Notificação: {e}')
