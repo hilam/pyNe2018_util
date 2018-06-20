@@ -1,0 +1,1235 @@
+{
+    "0.0.1": [{
+
+        "1": {
+            "title": "Django Girls",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "2": {
+            "title": "Maratona de programação",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "3": {
+            "title": "Linux & Python 101",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Newton Galiza",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "4": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "5": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "6": {
+            "title": "Big Data em Saúde: Análises de dados com Python e Spark, utilizando algoritmos inteligentes para o suporte à decisão em saúde.",
+            "description": "paulo.cesar1294@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Paulo César Brito",
+                "info": "Bacharel em Ciência da Computação pela UFCG. Mestrando em Ciência e Tecnologia em Saúde pela UEPB. Atua como Gerente de Inovação na Secretaria Municipal de Ciência, Tecnologia e Inovação em Campina Grande, onde é responsável pela criação de eventos e coordenação de projetos tecnológicos de integração da gestão pública municipal.",
+                "photo": "foto_paulo_cesar.jpg"
+            }
+        },
+        
+        "7": {
+            "title": "Contabilidade: mal necessário ou ferramenta indispensável?",
+            "description": "brunasoares.2409@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Bruna Soares",
+                "info": "Bruna Soares, 23 anos, piauiense criada no Maranhão, formada em Ciências Contábeis, em paralelo cantora e entusiasta do uso de tecnologias para melhor desempenho da gestão empresarial.",
+                "photo": "BrunaSoares.jpg"
+            }
+        },
+        
+        "8": {
+            "title": "Hacking Ultrasound Machines with Python and Open Source Tools",
+            "description": "pasknel@hotmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "pasknel",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "9": {
+            "title": "Python IoT – Detecção e Reconhecimento de Faces, aplicações na sociedade",
+            "description": "ejrflaut@hotmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Erlon Júnior",
+                "info": "Cursa Ciência da Computação, freelancer como PenTester e Desenvolvedor, trabalha atualmente como Pesquisador e Desenvolvedor IoT no CTPD (Centro Tecnológico de Pesquisa e Desenvolvimento). Programa em Pascal, Python, Ruby, C/C++, apaixonado por Segurança da Informação, Hacking e muitas outras áreas de TI.",
+                "photo": "avatar.png"
+            }
+        },
+        
+        "10": {
+            "title": "Lightning Talk (1 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "11": {
+            "title": "Lightning Talk (1 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "12": {
+            "title": "Coffee Break",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "13": {
+            "title": "Django Girls",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "14": {
+            "title": "Maratona de programação",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "15": {
+            "title": "Linux & Python 101",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Newton Galiza",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "16": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "17": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "18": {
+            "title": "Como OpenStack faz Python uma linguagem de programação melhor e vice-versa",
+            "description": "raildom@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "raildo",
+                "info": "",
+                "photo": "avatar.png"
+            }
+        },
+        
+        "19": {
+            "title": "A Wrapper Tool for Transit API at Teresina-PI using Python",
+            "description": "grodrigues.simeao@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Guilherme Simeão",
+                "info": "Acadêmico em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí, atualmente cursando o 5° módulo. Mudança e desafios são o que me movem. Além de programador python, estou imergindo no universo JavaScript.",
+                "photo": "Guilherme.jpg"
+            }
+        },
+        
+        "20": {
+            "title": "Web2py Desenvolvimento Web",
+            "description": "ovidioccg@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Ovídio Marinho",
+                "info": "Graduado em Sistemas Para Internet e Pos-Graduado em Segurança da Informação, Desenvolvedor de Sistemas atualmente na ITJP.NET.BR, Trabalha com Web2py, desenvolvendo sistemas para web e Treinamentos e suporte na ferramenta.",
+                "photo": "Ovidio.jpg"
+            }
+        },
+        
+        "21": {
+            "title": "Sonicbox: Fazendo Música com Sonic Pi e Kivy",
+            "description": "diegodukao@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Diego Guimarães",
+                "info": "Bacharel em Ciência da Computação pela UFF, pythonista, usuário e ativista de Software Livre, apaixonado por música e tecnologia e pelas oportunidades que as duas juntas trazem.",
+                "photo": "diego.jpg"
+            }
+        },
+        
+        "22": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "23": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "24": {
+            "title": "Almoço",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "25": {
+            "title": "Django Girls",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "26": {
+            "title": "Domain Driven Design (DDD) aplicado em Python para ambientes ágeis",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Jhonatan Teixeira",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "27": {
+            "title": "Introdução à ciência de dados com Python",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Prof. Dr. Adriano A. Santos",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "28": {
+            "title": "Aplicações de Python à Neurociência Computacional",
+            "description": "paulo.ribeiro.lins.jr@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Paulo Ribeiro Lins Júnior",
+                "info": "Professor de estatística, TIC e métodos numéricos no IFPB-CG, usa Python para fins científicos há mais de 8 anos, pesquisa da área de processamento de informação, fã de computação, matemática e de sua mistura!",
+                "photo": "PauloRibeiro.jpg"
+            }
+        },
+        
+        "29": {
+            "title": "Event Sourcing em Python",
+            "description": "patrick.s.porto@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Patrick Porto",
+                "info": "Engenheiro de software na Stone Pagamentos, atuando principalmente em serviços de Banking.",
+                "photo": "Patrick.jpg"
+            }
+        },
+        
+        "30": {
+            "title": "O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços",
+            "description": "contato@raelmax.com",
+            "type": "default",
+            "speaker": {
+                "name": "Rael Max",
+                "info": "Desenvolvedor apaixonado por opensource, colaboração e qualidade de software. É participante ativo da comunidade Python e trabalha há mais de 8 anos desenvolvendo as mais variadas soluções. Atualmente é desenvolvedor do time de plataformas da Globo.com.",
+                "photo": "Rael.jpeg"
+            }
+        },
+        
+        "31": {
+            "title": "Python e InfoSec - Automatizando o trabalho do Pentester",
+            "description": "halencarjunior@protonmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Humberto Júnior",
+                "info": "Graduado em Sistemas para Internet, possui pós-graduação em Segurança da Informação, é apaixonado por Python e utiliza a linguagem para automatizar rotinas entediantes do dia-a-dia na profissão. Trabalha atualmente com Governança, Segurança da Informação e Infraestrutura em Cloud Computing na Conductor Tecnologia em João Pessoa e é professor da graduação e pós-graduação na faculdade IESP, na pós-graduação em Segurança da Informação da faculdade Estácio e na disciplina de Segurança em Aplicações Web na pós-graduação em Desenvolvimento Web da faculdade Unipê.",
+                "photo": "HumbertoJr.jpg"
+            }
+        },
+        
+        "32": {
+            "title": "Normalização: quando usar e quando não usar em Django",
+            "description": "flavio@vinta.com.br",
+            "type": "default",
+            "speaker": {
+                "name": "Flávio Juvenal",
+                "info": "Sócio da Vinta Software (https://www.vinta.com.br/), trabalha com produtos em Django e React para clientes internacionais. É apaixonado por código de qualidade e tenta aplicar o Zen of Python a tudo.",
+                "photo": "FlavioJuvenal.jpg"
+            }
+        },
+        
+        "33": {
+            "title": "Microservices em Python: desafios e soluções",
+            "description": "marcelo.vieira@corp.globo.com",
+            "type": "default",
+            "speaker": {
+                "name": "Marcelo Vieira",
+                "info": "",
+                "photo": "avatar.png"
+            }
+        },
+        
+        "34": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "35": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "36": {
+            "title": "Coffee Break",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "37": {
+            "title": "Django Girls",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "38": {
+            "title": "Domain Driven Design (DDD) aplicado em Python para ambientes ágeis",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Jhonatan Teixeira",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "39": {
+            "title": "Introdução à ciência de dados com Python",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Prof. Dr. Adriano A. Santos",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "40": {
+            "title": "PyNES - Construindo jogos para NES com Python",
+            "description": "newtonjgaliza@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Newton Galiza",
+                "info": "Formado em ADS pela Estácio Idez, criador do @packtfreebot, conheceu Python por um amigo , e desde então usa para tudo. Game Designer do jogo Nippon Heroes, narrador e jogador de RPG nas horas vagas.",
+                "photo": "Newton.jpg"
+            }
+        },
+        
+        "41": {
+            "title": "[Web] Implementando suporte a multi-tenancy em uma aplicação crítica",
+            "description": "vpaivatorres@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Victor Torres",
+                "info": "Desenvolvedor de software para web e trabalha com telefonia utilizando Python e FreeSWITCH na Evolux em Natal/RN.",
+                "photo": "VictorPaiva.jpg"
+            }
+        },
+        
+        "42": {
+            "title": "Visão Computacional com Python para usuários de MATLAB",
+            "description": "valeskauchoa@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Valeska Uchôa",
+                "info": "Formada em Ciência da Computação, atualmente faz parte do programa de Mestrado da UFPI, com ênfase em Visão Computacional, mais especificamente Reconhecimento Facial. Além disso, faz parte do grupo PyLadies Teresina.",
+                "photo": "Valeska.jpg"
+            }
+        },
+        
+        "43": {
+            "title": "Pull Requests: Mergeando boas práticas no seu projeto",
+            "description": "luca@vinta.com.br",
+            "type": "default",
+            "speaker": {
+                "name": "Luca Bezerra",
+                "info": "Graduado pelo IFPE e Mestre em Ciência da Computação pela UFPE, onde usou Python para analisar e testar teorias da musicologia. Atualmente atua como desenvolvedor full stack (Django/React) na Vinta Software, em Recife, PE.",
+                "photo": "Luca.jpg"
+            }
+        },
+        
+        "44": {
+            "title": "Lightning Talk (1 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "45": {
+            "title": "Lightning Talk (1 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "46": {
+            "title": "Cerimônia de Abertura",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "47": {
+            "title": "Credenciamento",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "48": {
+            "title": "Raspagem e Análise de Dados para Jornalistas",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Fernando Masanori",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "49": {
+            "title": "Usando BDs NoSQL com Python",
+            "description": "luizclaudio@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Luiz Cláudio Silva",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "50": {
+            "title": "Introdução ao machine learning em saúde",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Hugo Soares",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "51": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "52": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "53": {
+            "title": "Construindo API REST com Django REST Framework",
+            "description": "werberthvinicius@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Werberth Vinícius",
+                "info": "Estudante do curso de Ciência da Computação pela Universidade Estadual do Piauí, Desenvolvedor Web e membro organizador do PUG-PHB (Grupo de Usuários de Python de Parnaíba-PI)",
+                "photo": "Werberth.jpg"
+            }
+        },
+        
+        "54": {
+            "title": "Domando a irreversibilidade com Feature Flags",
+            "description": "hugo@bessa.me",
+            "type": "default",
+            "speaker": {
+                "name": "Hugo Bessa",
+                "info": "Desenvolvedor Fullstack e músico amador. Está em um relacionamento sério com Single Page Applications e APIs REST desde 2013. Adora design patterns, design de interação, guitarra e meditação.",
+                "photo": "hugo-bessa.jpg"
+            }
+        },
+        
+        "55": {
+            "title": "[Educação] Pensamento Computacional com Blocos e Python",
+            "description": "givanaldo@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Givanaldo Rocha de Souza",
+                "info": "Professor de Sistemas de Informação do IFRN Campus Parnamirim, graduado em Engenharia de Computação e Doutor em Ciência da Computação. Trabalha desde 2012 com a disciplina de Algoritmos com a linguagem Python e tem como objetivo despertar nos seus alunos o gosto pela programação de computadores.",
+                "photo": "Givanaldo.jpg"
+            }
+        },
+        
+        "56": {
+            "title": "Faça seu próprio Google Home com um Raspberry Pi, Python e o Google Assistant SDK",
+            "description": "alvarowolfx@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "alvarowolfx",
+                "info": "",
+                "photo": "avatar.png"
+            }
+        },
+        
+        "57": {
+            "title": "Lightning Talk (1 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "58": {
+            "title": "Lightning Talk (1 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "59": {
+            "title": "Coffee Break",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "60": {
+            "title": "Raspagem e Análise de Dados para Jornalistas",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Fernando Masanori",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "61": {
+            "title": "Usando BDs NoSQL com Python",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Luiz Cláudio",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "62": {
+            "title": "Introdução ao machine learning em saúde",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Hugo Soares",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "63": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "64": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "65": {
+            "title": "Database as a Service com python na globo.com",
+            "description": "mauro_murari@hotmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Mauro Murari",
+                "info": "Tenho contato com python desde que ele salvou meu TCC em 2014, atualmente sou engenheiro de software na equipe de banco de dados da globo.com, sempre com python no coração.",
+                "photo": "MauroMurari.jpg"
+            }
+        },
+        
+        "66": {
+            "title": "Perdendo o medo da WEB com Django",
+            "description": "ryllarimarques@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Ryllari Marques",
+                "info": "22 anos. Potiguar com feeling cearense. Integrante do PyLadies Fortaleza. Programa desde os 16. Desenvolvedora Júnior na Morphus Segurança da Informação. Estudante de Engenharia de Computação no IFCE.",
+                "photo": "Ryllari.jpg"
+            }
+        },
+        
+        "67": {
+            "title": "Física e Python, uma relação simples e prática!",
+            "description": "gomesabam@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Ana Maria Gomes",
+                "info": "Pylady e estudante de física na Universidade Federal do Piauí. Atua na área da física teórica com o Estudo das Propriedades Mecânicas de Nanotubos de Carbono com deformações estruturais.",
+                "photo": "AnaGomes.jpg"
+            }
+        },
+        
+        "68": {
+            "title": "Programando o seu processo de software",
+            "description": "rob@vinta.com.br",
+            "type": "default",
+            "speaker": {
+                "name": "Robertson Novelino",
+                "info": "Criador de ferramentas organizacionais, tendo elas linhas de código ou não. Gosta de ler sobre coisas loucas como Futurismo, Psicologia, educação, etc. Quando vai escrever código, usa Python/Django.",
+                "photo": "robertson.jpg"
+            }
+        },
+        
+        "69": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "70": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "71": {
+            "title": "Almoço",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "72": {
+            "title": "Raspagem e Análise de Dados para Jornalistas",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Fernando Masanori",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "73": {
+            "title": "TDD com PyTest",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Luciano Ramalho",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "74": {
+            "title": "Introdução a Data Science com Pandas e Scikit-learn",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Gileno Filho",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "75": {
+            "title": "Multi-Tenancy: Uma introdução à arquitetura",
+            "description": "arineto30@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Arimatea Neto",
+                "info": "Graduado em Ciência da Computação pela UFPE e com especialização em Ciência da Dados e Analytics pela UPE, tenho trabalhado atualmente como desenvolvedor Full-Stack com Django e React na Vinta.",
+                "photo": "arimatea.png"
+            }
+        },
+        
+        "76": {
+            "title": "PyLadies e Django Girls: ajudando a tornar a comunidade Python mais diversa e mais inclusiva",
+            "description": "debbiechan_deh@hotmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Débora Azevedo",
+                "info": "Técnica em Informática e Redes pelo IFRN, atualmente estuda Bacharelado em TI na UFRN. Cofundadora do PyLadies Natal, atua no PyLadiesBR desde o começo. Trabalha como professora e ministra curso de Python nas horas vagas.",
+                "photo": "Debora.jpg"
+            }
+        },
+        
+        "77": {
+            "title": "Utilizando Python para resolver questões de Capture The Flag (CTF)",
+            "description": "diofeher@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Diógenes Fernandes",
+                "info": "Desenvolvedor blockchain e full-stack com mais de 8 anos de experiência profissional, tendo participado duas vezes do Google Summer of Code como estudante, atualmente core dev da blockchain Phore e jogador de Capture The Flag da FireShell.",
+                "photo": "Diogenes.jpeg"
+            }
+        },
+        
+        "78": {
+            "title": "Mapeando 1 milhão de recursos em uma Cloud",
+            "description": "contato@edersonbrilhante.com.br",
+            "type": "default",
+            "speaker": {
+                "name": "Ederson Brilhante",
+                "info": "Saiba como conseguimos mapear mais de 1 milhão de recursos da Cloud da Globo.com, que estão espalhados em dezenas de sistemas em um ambiente Everything as a Service.",
+                "photo": "Ederson.jpg"
+            }
+        },
+        
+        "79": {
+            "title": "Previsão de séries temporais com PyData e Inteligência Artificial",
+            "description": "rebecasaraiaguiar@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Rebeca Sarai",
+                "info": "Desenvolvedora de software. Quase engenheira. Ama surf. Ama futebol. Entusiasta de criptomoedas.",
+                "photo": "RebecaSarai.jpg"
+            }
+        },
+        
+        "80": {
+            "title": "Escrevendo código flexivel com Design Patterns",
+            "description": "filipeximenes@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Filipe Ximenes",
+                "info": "Xima é sócio da Vinta Software onde desenvolve aplicações web para clientes dos EUA e Brasil. Ele acredita que 'simples é melhor que complexo' deve ser um mantra para a maioria das coisas na vida.",
+                "photo": "FilipeXima.png"
+            }
+        },
+        
+        "81": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "82": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "83": {
+            "title": "Coffee Break",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "84": {
+            "title": "Raspagem e Análise de Dados para Jornalistas",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Fernando Masanori",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "85": {
+            "title": "TDD com PyTest",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Luciano Ramalho",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "86": {
+            "title": "Introdução a Data Science com Pandas e Scikit-learn",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Gileno Filho",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "87": {
+            "title": "[Machine Learning] - Hackeando redes neurais com Python",
+            "description": "diogoffmelo@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Diogo Melo",
+                "info": "Físico de formação, desenvolvedor por coincidência e pythonista por escolha. Ultimamente gravitando em torno de Redes Neurais e Permacultura.",
+                "photo": "Diogo.jpg"
+            }
+        },
+        
+        "88": {
+            "title": "Eventos itinerantes de empoderamento tecnológico na comunidade Python",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Thais Viana e Jessica Temporal",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "89": {
+            "title": "Aplicação de técnicas de Coleta, processamento, Análise e execução de textos com NLTK e Frameworks de Machine Learning em Python, Integrados a ChatBots em computação cognitiva",
+            "description": "ricardorobertolima@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Ricardo Roberto de Lima",
+                "info": "Mestrado em Engenharia de Software, tem experiência em Arquitetura de Sistemas Distribuídos e Analíticos, BI e Big Data, plataformas em nuvem e cognitivas, HDFS, Hadoop, Spark, Java, Python e Scala.",
+                "photo": "RicardoRoberto.jpg"
+            }
+        },
+        
+        "90": {
+            "title": "Melhorando a performance com concorrencia (concurrency), threading e IO.",
+            "description": "jhonatan@voxtecnologia.com.br",
+            "type": "default",
+            "speaker": {
+                "name": "jhonatan",
+                "info": "",
+                "photo": "avatar.png"
+            }
+        },
+        
+        "91": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "92": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "93": {
+            "title": "Introdução a Machine Learning e Deep Learning com TensorFlow e Keras",
+            "description": "mariannelinharesm@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Marianne Linhares",
+                "info": "Ex-estagiária do Google onde trabalhou junto do time do TensorFlow, atualmente é aluna de graduação da UFCG onde estuda ciência da computação, pesquisa na área de Machine Learning e é Google Developer Expert no assunto do Brasil. Twitter: @hereismari",
+                "photo": "Marianne.jpeg"
+            }
+        },
+        
+        "94": {
+            "title": "Algoritmo Genético com Python - 'Fruto do acaso ou de um processo evolutivo?!'",
+            "description": "anapaula.ds.mendes@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Ana Paula da Silva Mendes",
+                "info": "20 anos, cursa Ciência da Computação na UFPI (5/8 semestre). Co-fundadora e co-organizadora da PyLadies Teresina. Tem uma iniciativa onde compartilho conhecimento chamada “Ana no Terminal”.",
+                "photo": "AnaPaula.jpeg"
+            }
+        },
+        
+        "95": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "96": {
+            "title": "print('Você já ensinou Python para uma pessoa hoje?')",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Soraya Roberta",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "97": {
+            "title": "Sistemas de Recomendação da matemática a prática",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Thais Viana",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "98": {
+            "title": "Lightning Talk (1 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "99": {
+            "title": "Coffee Break",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "100": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "101": {
+            "title": "Programação para jornalistas: 3 meses de experiências em uma redação",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Judite Cypreste e Fernando Masanori",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "102": {
+            "title": "Python & Kivy: Inclusão Mobile",
+            "description": "hildeberto@gmail.com",
+            "type": "default",
+            "speaker": {
+                "name": "Hildeberto Magalhães",
+                "info": "Graduado em Ciência da Computação, MBA em Gestão de Projetos, experiência profissional desde 1988 com desenvolvimento de sistemas. Considera Python a linguagem do novo século.",
+                "photo": "hilam.png"
+            }
+        },
+        
+        "103": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "104": {
+            "title": "Almoço",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "105": {
+            "title": "[Palestra 34]",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "106": {
+            "title": "Serenata de Amor: Ciência de dados no mundo real",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Jessica Temporal",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "107": {
+            "title": "Além dos Paradigmas: dicas para escrever código Pythônico",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Luciano Ramalho",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "108": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "109": {
+            "title": "Coffee Break",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "110": {
+            "title": "Momento para networking",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "111": {
+            "title": "[Painel]",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Keynotes",
+                "info": "",
+                "photo": ""
+            }
+        },
+        
+        "112": {
+            "title": "Cerimônia de Encerramento",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "",
+                "info": "",
+                "photo": ""
+            }
+        }
+        } ] }

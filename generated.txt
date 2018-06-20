@@ -1,0 +1,1406 @@
+Palestra: Big Data em Saúde: Análises de dados com Python e Spark, utilizando algoritmos inteligentes para o suporte à decisão em saúde.
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#paulocesar">
+                            Big Data em Saúde: Análises de dados com Python e Spark, utilizando algoritmos inteligentes para o suporte à decisão em saúde.
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="paulocesar" tabindex="-1" role="dialog" aria-labelledby="paulocesarTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="paulocesarLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/foto_paulo_cesar.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Paulo César Brito</h4>
+                                  <p>
+                                    Bacharel em Ciência da Computação pela UFCG. Mestrando em Ciência e Tecnologia em Saúde pela UEPB. Atua como Gerente de Inovação na Secretaria Municipal de Ciência, Tecnologia e Inovação em Campina Grande, onde é responsável pela criação de eventos e coordenação de projetos tecnológicos de integração da gestão pública municipal.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      paulo.cesar1294@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Contabilidade: mal necessário ou ferramenta indispensável?
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#bruna">
+                            Contabilidade: mal necessário ou ferramenta indispensável?
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="bruna" tabindex="-1" role="dialog" aria-labelledby="brunaTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="brunaLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/BrunaSoares.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Bruna Soares</h4>
+                                  <p>
+                                    Bruna Soares, 23 anos, piauiense criada no Maranhão, formada em Ciências Contábeis, em paralelo cantora e entusiasta do uso de tecnologias para melhor desempenho da gestão empresarial.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      brunasoares.2409@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Python IoT – Detecção e Reconhecimento de Faces, aplicações na sociedade
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#erlon">
+                            Python IoT – Detecção e Reconhecimento de Faces, aplicações na sociedade
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="erlon" tabindex="-1" role="dialog" aria-labelledby="erlonTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="erlonLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/avatar.png" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Erlon Júnior</h4>
+                                  <p>
+                                    Cursa Ciência da Computação, freelancer como PenTester e Desenvolvedor, trabalha atualmente como Pesquisador e Desenvolvedor IoT no CTPD (Centro Tecnológico de Pesquisa e Desenvolvimento). Programa em Pascal, Python, Ruby, C/C++, apaixonado por Segurança da Informação, Hacking e muitas outras áreas de TI.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      ejrflaut@hotmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Como OpenStack faz Python uma linguagem de programação melhor e vice-versa
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#raildo">
+                            Como OpenStack faz Python uma linguagem de programação melhor e vice-versa
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="raildo" tabindex="-1" role="dialog" aria-labelledby="raildoTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="raildoLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/avatar.png" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>raildo</h4>
+                                  <p>
+                                    
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      raildom@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: A Wrapper Tool for Transit API at Teresina-PI using Python
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#guilherme">
+                            A Wrapper Tool for Transit API at Teresina-PI using Python
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="guilherme" tabindex="-1" role="dialog" aria-labelledby="guilhermeTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="guilhermeLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Guilherme.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Guilherme Simeão</h4>
+                                  <p>
+                                    Acadêmico em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí, atualmente cursando o 5° módulo. Mudança e desafios são o que me movem. Além de programador python, estou imergindo no universo JavaScript.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      grodrigues.simeao@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Web2py Desenvolvimento Web
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#ovidio">
+                            Web2py Desenvolvimento Web
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="ovidio" tabindex="-1" role="dialog" aria-labelledby="ovidioTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="ovidioLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Ovidio.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Ovídio Marinho</h4>
+                                  <p>
+                                    Graduado em Sistemas Para Internet e Pos-Graduado em Segurança da Informação, Desenvolvedor de Sistemas atualmente na ITJP.NET.BR, Trabalha com Web2py, desenvolvendo sistemas para web e Treinamentos e suporte na ferramenta.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      ovidioccg@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Sonicbox: Fazendo Música com Sonic Pi e Kivy
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#diego">
+                            Sonicbox: Fazendo Música com Sonic Pi e Kivy
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="diego" tabindex="-1" role="dialog" aria-labelledby="diegoTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="diegoLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/diego.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Diego Guimarães</h4>
+                                  <p>
+                                    Bacharel em Ciência da Computação pela UFF, pythonista, usuário e ativista de Software Livre, apaixonado por música e tecnologia e pelas oportunidades que as duas juntas trazem.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      diegodukao@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Aplicações de Python à Neurociência Computacional
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#paulo">
+                            Aplicações de Python à Neurociência Computacional
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="paulo" tabindex="-1" role="dialog" aria-labelledby="pauloTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="pauloLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/PauloRibeiro.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Paulo Ribeiro Lins Júnior</h4>
+                                  <p>
+                                    Professor de estatística, TIC e métodos numéricos no IFPB-CG, usa Python para fins científicos há mais de 8 anos, pesquisa da área de processamento de informação, fã de computação, matemática e de sua mistura!
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      paulo.ribeiro.lins.jr@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Event Sourcing em Python
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#patrick">
+                            Event Sourcing em Python
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="patrick" tabindex="-1" role="dialog" aria-labelledby="patrickTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="patrickLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Patrick.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Patrick Porto</h4>
+                                  <p>
+                                    Engenheiro de software na Stone Pagamentos, atuando principalmente em serviços de Banking.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      patrick.s.porto@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#rael">
+                            O fim de uma era: os desafios de transformar um monolito de 8 anos em microserviços
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="rael" tabindex="-1" role="dialog" aria-labelledby="raelTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="raelLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Rael.jpeg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Rael Max</h4>
+                                  <p>
+                                    Desenvolvedor apaixonado por opensource, colaboração e qualidade de software. É participante ativo da comunidade Python e trabalha há mais de 8 anos desenvolvendo as mais variadas soluções. Atualmente é desenvolvedor do time de plataformas da Globo.com.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      contato@raelmax.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Python e InfoSec - Automatizando o trabalho do Pentester
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#humberto">
+                            Python e InfoSec - Automatizando o trabalho do Pentester
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="humberto" tabindex="-1" role="dialog" aria-labelledby="humbertoTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="humbertoLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/HumbertoJr.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Humberto Júnior</h4>
+                                  <p>
+                                    Graduado em Sistemas para Internet, possui pós-graduação em Segurança da Informação, é apaixonado por Python e utiliza a linguagem para automatizar rotinas entediantes do dia-a-dia na profissão. Trabalha atualmente com Governança, Segurança da Informação e Infraestrutura em Cloud Computing na Conductor Tecnologia em João Pessoa e é professor da graduação e pós-graduação na faculdade IESP, na pós-graduação em Segurança da Informação da faculdade Estácio e na disciplina de Segurança em Aplicações Web na pós-graduação em Desenvolvimento Web da faculdade Unipê.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      halencarjunior@protonmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Normalização: quando usar e quando não usar em Django
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#flavio">
+                            Normalização: quando usar e quando não usar em Django
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="flavio" tabindex="-1" role="dialog" aria-labelledby="flavioTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="flavioLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/FlavioJuvenal.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Flávio Juvenal</h4>
+                                  <p>
+                                    Sócio da Vinta Software (https://www.vinta.com.br/), trabalha com produtos em Django e React para clientes internacionais. É apaixonado por código de qualidade e tenta aplicar o Zen of Python a tudo.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      flavio@vinta.com.br
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Microservices em Python: desafios e soluções
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#marcelo">
+                            Microservices em Python: desafios e soluções
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="marcelo" tabindex="-1" role="dialog" aria-labelledby="marceloTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="marceloLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/avatar.png" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Marcelo Vieira</h4>
+                                  <p>
+                                    
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      marcelo.vieira@corp.globo.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: PyNES - Construindo jogos para NES com Python
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#newton">
+                            PyNES - Construindo jogos para NES com Python
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="newton" tabindex="-1" role="dialog" aria-labelledby="newtonTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="newtonLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Newton.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Newton Galiza</h4>
+                                  <p>
+                                    Formado em ADS pela Estácio Idez, criador do @packtfreebot, conheceu Python por um amigo , e desde então usa para tudo. Game Designer do jogo Nippon Heroes, narrador e jogador de RPG nas horas vagas.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      newtonjgaliza@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: [Web] Implementando suporte a multi-tenancy em uma aplicação crítica
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#victor">
+                            [Web] Implementando suporte a multi-tenancy em uma aplicação crítica
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="victor" tabindex="-1" role="dialog" aria-labelledby="victorTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="victorLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/VictorPaiva.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Victor Torres</h4>
+                                  <p>
+                                    Desenvolvedor de software para web e trabalha com telefonia utilizando Python e FreeSWITCH na Evolux em Natal/RN.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      vpaivatorres@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Visão Computacional com Python para usuários de MATLAB
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#valeska">
+                            Visão Computacional com Python para usuários de MATLAB
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="valeska" tabindex="-1" role="dialog" aria-labelledby="valeskaTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="valeskaLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Valeska.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Valeska Uchôa</h4>
+                                  <p>
+                                    Formada em Ciência da Computação, atualmente faz parte do programa de Mestrado da UFPI, com ênfase em Visão Computacional, mais especificamente Reconhecimento Facial. Além disso, faz parte do grupo PyLadies Teresina.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      valeskauchoa@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Pull Requests: Mergeando boas práticas no seu projeto
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#luca">
+                            Pull Requests: Mergeando boas práticas no seu projeto
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="luca" tabindex="-1" role="dialog" aria-labelledby="lucaTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="lucaLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Luca.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Luca Bezerra</h4>
+                                  <p>
+                                    Graduado pelo IFPE e Mestre em Ciência da Computação pela UFPE, onde usou Python para analisar e testar teorias da musicologia. Atualmente atua como desenvolvedor full stack (Django/React) na Vinta Software, em Recife, PE.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      luca@vinta.com.br
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Construindo API REST com Django REST Framework
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#werberth">
+                            Construindo API REST com Django REST Framework
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="werberth" tabindex="-1" role="dialog" aria-labelledby="werberthTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="werberthLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Werberth.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Werberth Vinícius</h4>
+                                  <p>
+                                    Estudante do curso de Ciência da Computação pela Universidade Estadual do Piauí, Desenvolvedor Web e membro organizador do PUG-PHB (Grupo de Usuários de Python de Parnaíba-PI)
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      werberthvinicius@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Domando a irreversibilidade com Feature Flags
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#hugo">
+                            Domando a irreversibilidade com Feature Flags
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="hugo" tabindex="-1" role="dialog" aria-labelledby="hugoTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="hugoLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/hugo-bessa.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Hugo Bessa</h4>
+                                  <p>
+                                    Desenvolvedor Fullstack e músico amador. Está em um relacionamento sério com Single Page Applications e APIs REST desde 2013. Adora design patterns, design de interação, guitarra e meditação.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      hugo@bessa.me
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: [Educação] Pensamento Computacional com Blocos e Python
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#givanaldo">
+                            [Educação] Pensamento Computacional com Blocos e Python
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="givanaldo" tabindex="-1" role="dialog" aria-labelledby="givanaldoTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="givanaldoLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Givanaldo.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Givanaldo Rocha de Souza</h4>
+                                  <p>
+                                    Professor de Sistemas de Informação do IFRN Campus Parnamirim, graduado em Engenharia de Computação e Doutor em Ciência da Computação. Trabalha desde 2012 com a disciplina de Algoritmos com a linguagem Python e tem como objetivo despertar nos seus alunos o gosto pela programação de computadores.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      givanaldo@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Faça seu próprio Google Home com um Raspberry Pi, Python e o Google Assistant SDK
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#alvaro">
+                            Faça seu próprio Google Home com um Raspberry Pi, Python e o Google Assistant SDK
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="alvaro" tabindex="-1" role="dialog" aria-labelledby="alvaroTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="alvaroLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/avatar.png" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>alvarowolfx</h4>
+                                  <p>
+                                    
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      alvarowolfx@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Database as a Service com python na globo.com
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#mauro">
+                            Database as a Service com python na globo.com
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="mauro" tabindex="-1" role="dialog" aria-labelledby="mauroTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="mauroLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/MauroMurari.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Mauro Murari</h4>
+                                  <p>
+                                    Tenho contato com python desde que ele salvou meu TCC em 2014, atualmente sou engenheiro de software na equipe de banco de dados da globo.com, sempre com python no coração.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      mauro_murari@hotmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Perdendo o medo da WEB com Django
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#ryllari">
+                            Perdendo o medo da WEB com Django
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="ryllari" tabindex="-1" role="dialog" aria-labelledby="ryllariTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="ryllariLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Ryllari.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Ryllari Marques</h4>
+                                  <p>
+                                    22 anos. Potiguar com feeling cearense. Integrante do PyLadies Fortaleza. Programa desde os 16. Desenvolvedora Júnior na Morphus Segurança da Informação. Estudante de Engenharia de Computação no IFCE.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      ryllarimarques@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Física e Python, uma relação simples e prática!
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#anagomes">
+                            Física e Python, uma relação simples e prática!
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="anagomes" tabindex="-1" role="dialog" aria-labelledby="anagomesTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="anagomesLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/AnaGomes.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Ana Maria Gomes</h4>
+                                  <p>
+                                    Pylady e estudante de física na Universidade Federal do Piauí. Atua na área da física teórica com o Estudo das Propriedades Mecânicas de Nanotubos de Carbono com deformações estruturais.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      gomesabam@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Programando o seu processo de software
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#robertson">
+                            Programando o seu processo de software
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="robertson" tabindex="-1" role="dialog" aria-labelledby="robertsonTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="robertsonLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/robertson.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Robertson Novelino</h4>
+                                  <p>
+                                    Criador de ferramentas organizacionais, tendo elas linhas de código ou não. Gosta de ler sobre coisas loucas como Futurismo, Psicologia, educação, etc. Quando vai escrever código, usa Python/Django.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      rob@vinta.com.br
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Multi-Tenancy: Uma introdução à arquitetura
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#arimatea">
+                            Multi-Tenancy: Uma introdução à arquitetura
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="arimatea" tabindex="-1" role="dialog" aria-labelledby="arimateaTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="arimateaLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/arimatea.png" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Arimatea Neto</h4>
+                                  <p>
+                                    Graduado em Ciência da Computação pela UFPE e com especialização em Ciência da Dados e Analytics pela UPE, tenho trabalhado atualmente como desenvolvedor Full-Stack com Django e React na Vinta.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      arineto30@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: PyLadies e Django Girls: ajudando a tornar a comunidade Python mais diversa e mais inclusiva
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#debora">
+                            PyLadies e Django Girls: ajudando a tornar a comunidade Python mais diversa e mais inclusiva
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="debora" tabindex="-1" role="dialog" aria-labelledby="deboraTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="deboraLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Debora.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Débora Azevedo</h4>
+                                  <p>
+                                    Técnica em Informática e Redes pelo IFRN, atualmente estuda Bacharelado em TI na UFRN. Cofundadora do PyLadies Natal, atua no PyLadiesBR desde o começo. Trabalha como professora e ministra curso de Python nas horas vagas.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      debbiechan_deh@hotmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Utilizando Python para resolver questões de Capture The Flag (CTF)
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#diogenes">
+                            Utilizando Python para resolver questões de Capture The Flag (CTF)
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="diogenes" tabindex="-1" role="dialog" aria-labelledby="diogenesTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="diogenesLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Diogenes.jpeg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Diógenes Fernandes</h4>
+                                  <p>
+                                    Desenvolvedor blockchain e full-stack com mais de 8 anos de experiência profissional, tendo participado duas vezes do Google Summer of Code como estudante, atualmente core dev da blockchain Phore e jogador de Capture The Flag da FireShell.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      diofeher@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Mapeando 1 milhão de recursos em uma Cloud
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#ederson">
+                            Mapeando 1 milhão de recursos em uma Cloud
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="ederson" tabindex="-1" role="dialog" aria-labelledby="edersonTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="edersonLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Ederson.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Ederson Brilhante</h4>
+                                  <p>
+                                    Saiba como conseguimos mapear mais de 1 milhão de recursos da Cloud da Globo.com, que estão espalhados em dezenas de sistemas em um ambiente Everything as a Service.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      contato@edersonbrilhante.com.br
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Previsão de séries temporais com PyData e Inteligência Artificial
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#rebeca">
+                            Previsão de séries temporais com PyData e Inteligência Artificial
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="rebeca" tabindex="-1" role="dialog" aria-labelledby="rebecaTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="rebecaLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/RebecaSarai.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Rebeca Sarai</h4>
+                                  <p>
+                                    Desenvolvedora de software. Quase engenheira. Ama surf. Ama futebol. Entusiasta de criptomoedas.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      rebecasaraiaguiar@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Escrevendo código flexivel com Design Patterns
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#xima">
+                            Escrevendo código flexivel com Design Patterns
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="xima" tabindex="-1" role="dialog" aria-labelledby="ximaTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="ximaLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/FilipeXima.png" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Filipe Ximenes</h4>
+                                  <p>
+                                    Xima é sócio da Vinta Software onde desenvolve aplicações web para clientes dos EUA e Brasil. Ele acredita que 'simples é melhor que complexo' deve ser um mantra para a maioria das coisas na vida.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      filipeximenes@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: [Machine Learning] - Hackeando redes neurais com Python
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#diogo">
+                            [Machine Learning] - Hackeando redes neurais com Python
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="diogo" tabindex="-1" role="dialog" aria-labelledby="diogoTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="diogoLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Diogo.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Diogo Melo</h4>
+                                  <p>
+                                    Físico de formação, desenvolvedor por coincidência e pythonista por escolha. Ultimamente gravitando em torno de Redes Neurais e Permacultura.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      diogoffmelo@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Aplicação de técnicas de Coleta, processamento, Análise e execução de textos com NLTK e Frameworks de Machine Learning em Python, Integrados a ChatBots em computação cognitiva
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#ricardo">
+                            Aplicação de técnicas de Coleta, processamento, Análise e execução de textos com NLTK e Frameworks de Machine Learning em Python, Integrados a ChatBots em computação cognitiva
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="ricardo" tabindex="-1" role="dialog" aria-labelledby="ricardoTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="ricardoLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/RicardoRoberto.jpg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Ricardo Roberto de Lima</h4>
+                                  <p>
+                                    Mestrado em Engenharia de Software, tem experiência em Arquitetura de Sistemas Distribuídos e Analíticos, BI e Big Data, plataformas em nuvem e cognitivas, HDFS, Hadoop, Spark, Java, Python e Scala.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      ricardorobertolima@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Melhorando a performance com concorrencia (concurrency), threading e IO.
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#jhonatan">
+                            Melhorando a performance com concorrencia (concurrency), threading e IO.
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="jhonatan" tabindex="-1" role="dialog" aria-labelledby="jhonatanTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="jhonatanLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/avatar.png" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>jhonatan</h4>
+                                  <p>
+                                    
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      jhonatan@voxtecnologia.com.br
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Introdução a Machine Learning e Deep Learning com TensorFlow e Keras
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#marianne">
+                            Introdução a Machine Learning e Deep Learning com TensorFlow e Keras
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="marianne" tabindex="-1" role="dialog" aria-labelledby="marianneTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="marianneLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/Marianne.jpeg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Marianne Linhares</h4>
+                                  <p>
+                                    Ex-estagiária do Google onde trabalhou junto do time do TensorFlow, atualmente é aluna de graduação da UFCG onde estuda ciência da computação, pesquisa na área de Machine Learning e é Google Developer Expert no assunto do Brasil. Twitter: @hereismari
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      mariannelinharesm@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Algoritmo Genético com Python - "Fruto do acaso ou de um processo evolutivo?!"
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#anapaula">
+                            Algoritmo Genético com Python - "Fruto do acaso ou de um processo evolutivo?!"
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="anapaula" tabindex="-1" role="dialog" aria-labelledby="anapaulaTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="anapaulaLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/AnaPaula.jpeg" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Ana Paula da Silva Mendes</h4>
+                                  <p>
+                                    20 anos, cursa Ciência da Computação na UFPI (5/8 semestre). Co-fundadora e co-organizadora da PyLadies Teresina. Tem uma iniciativa onde compartilho conhecimento chamada “Ana no Terminal”.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      anapaula.ds.mendes@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
+Palestra: Python & Kivy: Inclusão Mobile
+
+                          <button type="button" class="btn btn-link" data-toggle="modal" data-target="#hilam">
+                            Python & Kivy: Inclusão Mobile
+                          </button>
+    
+                          <!-- Modal -->
+                          <div class="modal fade" id="hilam" tabindex="-1" role="dialog" aria-labelledby="hilamTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="hilamLongTitle">Apresentação</h5>
+                                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                  </button>
+                                </div>
+                                <div class="modal-body">
+                                  <img src="img/palestrantes/hilam.png" class="rounded mx-auto d-block" alt="avatar palestrante" width="80px">
+                                  <br>
+                                  <h4>Hildeberto Magalhães</h4>
+                                  <p>
+                                    Graduado em Ciência da Computação, MBA em Gestão de Projetos, experiência profissional desde 1988 com desenvolvimento de sistemas. Considera Python a linguagem do novo século.
+                                  </p>
+                                  <div class="container">
+                                    <p class="text-left">
+                                      <i class="material-icons align-middle">email</i>
+                                      hildeberto@gmail.com
+                                    </p>
+                                  </div>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+        
+
