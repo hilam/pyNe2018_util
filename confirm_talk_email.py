@@ -112,7 +112,7 @@ for indice, registro in palestras.iterrows():
         send_mail(mail_from, mail_to, assunto, conteudo)
         palestras.loc[indice, 'Envio'] += 1.0
         logging.info(f'Email enviado para {nome}.')
-    except RuntimeError as e:
+    except Exception as e:
         logging.error(f'Erro enviando para {nome}: {mail_to}')
         logging.error(f'Notificação: {e}')
         pass

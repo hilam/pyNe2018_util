@@ -19,8 +19,10 @@ import json
 import smtplib
 import urllib.parse
 import urllib.request
+from email import encoders
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from email.mime.base import MIMEBase
 import lxml.html
 # Elementos para autenticação OAuth devem ser colocadas no arquivo
 # resource/oauthpyne.py.
@@ -112,7 +114,7 @@ def get_authorization(google_client_id, google_client_secret):
     response = call_authorize_tokens(google_client_id, google_client_secret,
                                      authorization_code)
     return response['refresh_token'], response['access_token'], \
-        response['expires_in']
+           response['expires_in']
 
 
 def refresh_authorization(google_client_id, google_client_secret,
@@ -122,7 +124,7 @@ def refresh_authorization(google_client_id, google_client_secret,
     return response['access_token'], response['expires_in']
 
 
-def send_mail(fromaddr, toaddr, subject, message):
+def send_mail(fromaddr, toaddr, subject, message, attachment=None):
     access_token, expires_in = refresh_authorization(GOOGLE_CLIENT_ID,
                                                      GOOGLE_CLIENT_SECRET,
                                                      GOOGLE_REFRESH_TOKEN)
@@ -140,6 +142,17 @@ def send_mail(fromaddr, toaddr, subject, message):
     part_html = MIMEText(message.encode('utf-8'), 'html', _charset='utf-8')
     msg_alternative.attach(part_text)
     msg_alternative.attach(part_html)
+
+    if attachment:
+        attachment_file = open(attachment, "rb")
+        part_attach = MIMEBase('application', 'octet-stream')
+        part_attach.set_payload(attachment_file.read())
+        encoders.encode_base64(part_attach)
+        part_attach.add_header('Content-Disposition',
+                               "attachment; filename= %s" %
+                               attachment.split('/')[-1])
+        msg_alternative.attach(part_attach)
+
     server = smtplib.SMTP('smtp.gmail.com:587')
     server.ehlo(GOOGLE_CLIENT_ID)
     server.starttls()
@@ -158,6 +171,6 @@ if __name__ == '__main__':
               refresh_token)
         exit()
 
-    send_mail('nordeste@python.org.br', 'nordeste@python.org.br',
-              '[Python Nordeste 2018] Sua palestra foi aceita!',
-              'Teatando autenticação')
+    send_mail('nordeste@python.org.br', 'hildeberto@gmail.com',
+              '[Python Nordeste 2018] Certificado',
+              'Testando autenticação')
