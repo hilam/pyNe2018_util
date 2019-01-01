@@ -6,9 +6,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Django Girls",
+                "info": "Workshop gratuito de programação para mulheres",
+                "photo": "djangogirls.jpg"
             }
         },
         
@@ -17,9 +17,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Equipes inscritas",
+                "info": "Equipes de até 3 integrantes resolvem questões de diferentes dificuldades para provar qual é a melhor",
+                "photo": "maratona.png"
             }
         },
         
@@ -29,8 +29,8 @@
             "type": "default",
             "speaker": {
                 "name": "Newton Galiza",
-                "info": "",
-                "photo": ""
+                "info": "Para iniciantes, serão mostrados os primeiros passos no desenvolvimento com Python e Linux",
+                "photo": "Newton.jpg"
             }
         },
         
@@ -39,9 +39,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -50,9 +50,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -84,8 +84,8 @@
             "type": "default",
             "speaker": {
                 "name": "pasknel",
-                "info": "",
-                "photo": ""
+                "info": "Hacking Ultrasound Machines with Python and Open Source Tools",
+                "photo": "avatar.png"
             }
         },
         
@@ -96,7 +96,7 @@
             "speaker": {
                 "name": "Erlon Júnior",
                 "info": "Cursa Ciência da Computação, freelancer como PenTester e Desenvolvedor, trabalha atualmente como Pesquisador e Desenvolvedor IoT no CTPD (Centro Tecnológico de Pesquisa e Desenvolvimento). Programa em Pascal, Python, Ruby, C/C++, apaixonado por Segurança da Informação, Hacking e muitas outras áreas de TI.",
-                "photo": "avatar.png"
+                "photo": "Erlon.jpg"
             }
         },
         
@@ -105,9 +105,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -116,9 +116,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -127,9 +127,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Coffee Break",
+                "info": "Hora da pausa para o café e guloseimas",
+                "photo": "cafe.png"
             }
         },
         
@@ -138,9 +138,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Django Girls",
+                "info": "Workshop gratuito de programação para mulheres",
+                "photo": "djangogirls.jpg"
             }
         },
         
@@ -149,9 +149,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Equipes inscritas",
+                "info": "Equipes de até 3 integrantes resolvem questões de diferentes dificuldades para provar qual é a melhor",
+                "photo": "maratona.png"
             }
         },
         
@@ -161,8 +161,8 @@
             "type": "default",
             "speaker": {
                 "name": "Newton Galiza",
-                "info": "",
-                "photo": ""
+                "info": "Para iniciantes, serão mostrados os primeiros passos no desenvolvimento com Python e Linux",
+                "photo": "Newton.jpg"
             }
         },
         
@@ -171,9 +171,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -182,9 +182,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -194,7 +194,7 @@
             "type": "default",
             "speaker": {
                 "name": "raildo",
-                "info": "",
+                "info": "Como OpenStack faz Python uma linguagem de programação melhor e vice-versa",
                 "photo": "avatar.png"
             }
         },
@@ -237,9 +237,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -248,9 +248,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -259,9 +259,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Almoço",
+                "info": "Parada para recuperar o fôlego e forrar a barriga",
+                "photo": "almoco.jpg"
             }
         },
         
@@ -270,20 +270,20 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Django Girls",
+                "info": "Workshop gratuito de programação para mulheres",
+                "photo": "djangogirls.jpg"
             }
         },
         
         "26": {
             "title": "Domain Driven Design (DDD) aplicado em Python para ambientes ágeis",
-            "description": "",
+            "description": "jhonatan.teixeira@gmail.com",
             "type": "default",
             "speaker": {
                 "name": "Jhonatan Teixeira",
-                "info": "",
-                "photo": ""
+                "info": "Domain Driven Design (DDD) aplicado em Python para ambientes ágeis",
+                "photo": "jhonatan.teixeira.jpg"
             }
         },
         
@@ -293,8 +293,8 @@
             "type": "default",
             "speaker": {
                 "name": "Prof. Dr. Adriano A. Santos",
-                "info": "",
-                "photo": ""
+                "info": "Introdução à ciência de dados com Python",
+                "photo": "Adriano.jpg"
             }
         },
         
@@ -327,7 +327,7 @@
             "speaker": {
                 "name": "Rael Max",
                 "info": "Desenvolvedor apaixonado por opensource, colaboração e qualidade de software. É participante ativo da comunidade Python e trabalha há mais de 8 anos desenvolvendo as mais variadas soluções. Atualmente é desenvolvedor do time de plataformas da Globo.com.",
-                "photo": "Rael.jpeg"
+                "photo": "Rael.jpg"
             }
         },
         
@@ -359,8 +359,8 @@
             "type": "default",
             "speaker": {
                 "name": "Marcelo Vieira",
-                "info": "",
-                "photo": "avatar.png"
+                "info": "Microservices em Python: desafios e soluções",
+                "photo": "MarceloVieira.jpg"
             }
         },
         
@@ -369,9 +369,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -380,9 +380,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -391,9 +391,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Coffee Break",
+                "info": "Hora da pausa para o café e guloseimas",
+                "photo": "cafe.png"
             }
         },
         
@@ -402,20 +402,20 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Django Girls",
+                "info": "Workshop gratuito de programação para mulheres",
+                "photo": "djangogirls.jpg"
             }
         },
         
         "38": {
             "title": "Domain Driven Design (DDD) aplicado em Python para ambientes ágeis",
-            "description": "",
+            "description": "jhonatan.teixeira@gmail.com",
             "type": "default",
             "speaker": {
                 "name": "Jhonatan Teixeira",
-                "info": "",
-                "photo": ""
+                "info": "Domain Driven Design (DDD) aplicado em Python para ambientes ágeis",
+                "photo": "jhonatan.teixeira.jpg"
             }
         },
         
@@ -425,8 +425,8 @@
             "type": "default",
             "speaker": {
                 "name": "Prof. Dr. Adriano A. Santos",
-                "info": "",
-                "photo": ""
+                "info": "Introdução à ciência de dados com Python",
+                "photo": "avatar.png"
             }
         },
         
@@ -479,9 +479,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -490,9 +490,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -501,8 +501,8 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
+                "name": "Cerimônia de Abertura",
+                "info": "Cerimônia de abertura oficial do evento",
                 "photo": ""
             }
         },
@@ -512,8 +512,8 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
+                "name": "Credenciamento",
+                "info": "Credenciamento e recebimento do kit da conferência",
                 "photo": ""
             }
         },
@@ -524,8 +524,8 @@
             "type": "default",
             "speaker": {
                 "name": "Fernando Masanori",
-                "info": "",
-                "photo": ""
+                "info": "Raspagem e Análise de Dados para Jornalistas",
+                "photo": "fernando-masanori.png"
             }
         },
         
@@ -535,8 +535,8 @@
             "type": "default",
             "speaker": {
                 "name": "Luiz Cláudio Silva",
-                "info": "",
-                "photo": ""
+                "info": "Usando BDs NoSQL com Python",
+                "photo": "LuizClaudio.jpg"
             }
         },
         
@@ -546,8 +546,8 @@
             "type": "default",
             "speaker": {
                 "name": "Hugo Soares",
-                "info": "",
-                "photo": ""
+                "info": "Introdução ao machine learning em saúde",
+                "photo": "HugoSoares.jpg"
             }
         },
         
@@ -556,9 +556,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -567,9 +567,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -612,7 +612,7 @@
             "type": "default",
             "speaker": {
                 "name": "alvarowolfx",
-                "info": "",
+                "info": "Faça seu próprio Google Home com um Raspberry Pi, Python e o Google Assistant SDK",
                 "photo": "avatar.png"
             }
         },
@@ -622,9 +622,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -633,9 +633,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -644,9 +644,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Coffee Break",
+                "info": "Hora da pausa para o café e guloseimas",
+                "photo": "cafe.png"
             }
         },
         
@@ -656,19 +656,19 @@
             "type": "default",
             "speaker": {
                 "name": "Fernando Masanori",
-                "info": "",
-                "photo": ""
+                "info": "Raspagem e Análise de Dados para Jornalistas",
+                "photo": "fernando-masanori.png"
             }
         },
         
         "61": {
             "title": "Usando BDs NoSQL com Python",
-            "description": "",
+            "description": "luizclaudio@gmail.com",
             "type": "default",
             "speaker": {
                 "name": "Luiz Cláudio",
-                "info": "",
-                "photo": ""
+                "info": "Usando BDs NoSQL com Python",
+                "photo": "LuizClaudio.jpg"
             }
         },
         
@@ -678,8 +678,8 @@
             "type": "default",
             "speaker": {
                 "name": "Hugo Soares",
-                "info": "",
-                "photo": ""
+                "info": "Introdução ao machine learning em saúde",
+                "photo": "HugoSoares.jpg"
             }
         },
         
@@ -688,9 +688,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -699,9 +699,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -754,9 +754,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -765,9 +765,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -776,9 +776,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Almoço",
+                "info": "Parada para recuperar o fôlego e forrar a barriga",
+                "photo": "almoco.jpg"
             }
         },
         
@@ -788,8 +788,8 @@
             "type": "default",
             "speaker": {
                 "name": "Fernando Masanori",
-                "info": "",
-                "photo": ""
+                "info": "Raspagem e Análise de Dados para Jornalistas",
+                "photo": "fernando-masanori.png"
             }
         },
         
@@ -799,8 +799,8 @@
             "type": "default",
             "speaker": {
                 "name": "Luciano Ramalho",
-                "info": "",
-                "photo": ""
+                "info": "TDD com PyTest",
+                "photo": "luciano-ramalho.png"
             }
         },
         
@@ -810,8 +810,8 @@
             "type": "default",
             "speaker": {
                 "name": "Gileno Filho",
-                "info": "",
-                "photo": ""
+                "info": "Introdução a Data Science com Pandas e Scikit-learn",
+                "photo": "Gileno.jpg"
             }
         },
         
@@ -844,7 +844,7 @@
             "speaker": {
                 "name": "Diógenes Fernandes",
                 "info": "Desenvolvedor blockchain e full-stack com mais de 8 anos de experiência profissional, tendo participado duas vezes do Google Summer of Code como estudante, atualmente core dev da blockchain Phore e jogador de Capture The Flag da FireShell.",
-                "photo": "Diogenes.jpeg"
+                "photo": "Diogenes.jpg"
             }
         },
         
@@ -886,9 +886,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -897,9 +897,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -908,9 +908,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Coffee Break",
+                "info": "Hora da pausa para o café e guloseimas",
+                "photo": "cafe.png"
             }
         },
         
@@ -920,8 +920,8 @@
             "type": "default",
             "speaker": {
                 "name": "Fernando Masanori",
-                "info": "",
-                "photo": ""
+                "info": "Raspagem e Análise de Dados para Jornalistas",
+                "photo": "fernando-masanori.png"
             }
         },
         
@@ -931,8 +931,8 @@
             "type": "default",
             "speaker": {
                 "name": "Luciano Ramalho",
-                "info": "",
-                "photo": ""
+                "info": "TDD com PyTest",
+                "photo": "luciano-ramalho.png"
             }
         },
         
@@ -942,8 +942,8 @@
             "type": "default",
             "speaker": {
                 "name": "Gileno Filho",
-                "info": "",
-                "photo": ""
+                "info": "Introdução a Data Science com Pandas e Scikit-learn",
+                "photo": "Gileno.jpg"
             }
         },
         
@@ -964,8 +964,8 @@
             "type": "default",
             "speaker": {
                 "name": "Thais Viana e Jessica Temporal",
-                "info": "",
-                "photo": ""
+                "info": "Eventos itinerantes de empoderamento tecnológico na comunidade Python",
+                "photo": "thais-viana.png"
             }
         },
         
@@ -986,7 +986,7 @@
             "type": "default",
             "speaker": {
                 "name": "jhonatan",
-                "info": "",
+                "info": "Melhorando a performance com concorrencia (concurrency), threading e IO.",
                 "photo": "avatar.png"
             }
         },
@@ -996,9 +996,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -1007,9 +1007,9 @@
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
@@ -1020,7 +1020,7 @@
             "speaker": {
                 "name": "Marianne Linhares",
                 "info": "Ex-estagiária do Google onde trabalhou junto do time do TensorFlow, atualmente é aluna de graduação da UFCG onde estuda ciência da computação, pesquisa na área de Machine Learning e é Google Developer Expert no assunto do Brasil. Twitter: @hereismari",
-                "photo": "Marianne.jpeg"
+                "photo": "Marianne.jpg"
             }
         },
         
@@ -1031,204 +1031,226 @@
             "speaker": {
                 "name": "Ana Paula da Silva Mendes",
                 "info": "20 anos, cursa Ciência da Computação na UFPI (5/8 semestre). Co-fundadora e co-organizadora da PyLadies Teresina. Tem uma iniciativa onde compartilho conhecimento chamada “Ana no Terminal”.",
-                "photo": "AnaPaula.jpeg"
+                "photo": "AnaPaula.jpg"
             }
         },
         
         "95": {
-            "title": "Lightning Talk (3 de 5min)",
+            "title": "Momento para networking",
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Momento para networking",
+                "info": "Pausa para conhecer quem você não conheceu ainda",
+                "photo": "networking.jpg"
             }
         },
         
         "96": {
-            "title": "print('Você já ensinou Python para uma pessoa hoje?')",
+            "title": "Anitas na Estrada",
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "Soraya Roberta",
-                "info": "",
+                "name": "Anitas na Estrada",
+                "info": "Anitas na Estrada",
                 "photo": ""
             }
         },
         
         "97": {
+            "title": "Lightning Talk (3 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
+            }
+        },
+        
+        "98": {
+            "title": "print('Você já ensinou Python para uma pessoa hoje?')",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Soraya Roberta",
+                "info": "print('Você já ensinou Python para uma pessoa hoje?')",
+                "photo": "Soraya.jpg"
+            }
+        },
+        
+        "99": {
             "title": "Sistemas de Recomendação da matemática a prática",
             "description": "",
             "type": "default",
             "speaker": {
                 "name": "Thais Viana",
-                "info": "",
-                "photo": ""
-            }
-        },
-        
-        "98": {
-            "title": "Lightning Talk (1 de 5min)",
-            "description": "",
-            "type": "default",
-            "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
-            }
-        },
-        
-        "99": {
-            "title": "Coffee Break",
-            "description": "",
-            "type": "default",
-            "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "info": "Sistemas de Recomendação da matemática a prática",
+                "photo": "thais-viana.png"
             }
         },
         
         "100": {
-            "title": "Lightning Talk (2 de 5min)",
+            "title": "Lightning Talk (1 de 5min)",
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
         "101": {
+            "title": "Coffee Break",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Coffee Break",
+                "info": "Hora da pausa para o café e guloseimas",
+                "photo": "cafe.png"
+            }
+        },
+        
+        "102": {
+            "title": "Lightning Talk (2 de 5min)",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
+            }
+        },
+        
+        "103": {
             "title": "Programação para jornalistas: 3 meses de experiências em uma redação",
             "description": "",
             "type": "default",
             "speaker": {
                 "name": "Judite Cypreste e Fernando Masanori",
-                "info": "",
-                "photo": ""
+                "info": "Programação para jornalistas: 3 meses de experiências em uma redação",
+                "photo": "judite-cypreste.png"
             }
         },
         
-        "102": {
+        "104": {
             "title": "Python & Kivy: Inclusão Mobile",
             "description": "hildeberto@gmail.com",
             "type": "default",
             "speaker": {
                 "name": "Hildeberto Magalhães",
                 "info": "Graduado em Ciência da Computação, MBA em Gestão de Projetos, experiência profissional desde 1988 com desenvolvimento de sistemas. Considera Python a linguagem do novo século.",
-                "photo": "hilam.png"
-            }
-        },
-        
-        "103": {
-            "title": "Lightning Talk (2 de 5min)",
-            "description": "",
-            "type": "default",
-            "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
-            }
-        },
-        
-        "104": {
-            "title": "Almoço",
-            "description": "",
-            "type": "default",
-            "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "photo": "Hilam.jpg"
             }
         },
         
         "105": {
-            "title": "[Palestra 34]",
+            "title": "Lightning Talk (2 de 5min)",
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
         "106": {
+            "title": "Almoço",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Almoço",
+                "info": "Parada para recuperar o fôlego e forrar a barriga",
+                "photo": "almoco.jpg"
+            }
+        },
+        
+        "107": {
+            "title": "[Palestra 34]",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "[Palestra 34]",
+                "info": "[Palestra 34]",
+                "photo": "avatar.png"
+            }
+        },
+        
+        "108": {
             "title": "Serenata de Amor: Ciência de dados no mundo real",
             "description": "",
             "type": "default",
             "speaker": {
                 "name": "Jessica Temporal",
-                "info": "",
-                "photo": ""
-            }
-        },
-        
-        "107": {
-            "title": "Além dos Paradigmas: dicas para escrever código Pythônico",
-            "description": "",
-            "type": "default",
-            "speaker": {
-                "name": "Luciano Ramalho",
-                "info": "",
-                "photo": ""
-            }
-        },
-        
-        "108": {
-            "title": "Lightning Talk (3 de 5min)",
-            "description": "",
-            "type": "default",
-            "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "info": "Serenata de Amor: Ciência de dados no mundo real",
+                "photo": "jessica-temporal.png"
             }
         },
         
         "109": {
-            "title": "Coffee Break",
+            "title": "Além dos Paradigmas: dicas para escrever código PYTHONICO",
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Luciano Ramalho",
+                "info": "Além dos Paradigmas: dicas para escrever código PYTHONICO",
+                "photo": "luciano-ramalho.png"
             }
         },
         
         "110": {
-            "title": "Momento para networking",
+            "title": "Lightning Talk (3 de 5min)",
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
-                "photo": ""
+                "name": "Inscrições no local",
+                "info": "Lightning talk (em inglês: palestra relâmpago) é uma apresentação curta dada em uma conferência ou forum similar. Ao contrário de outras apresentações, palestras relâmpagos duram poucos minutos. E durante um curto intervalo de tempo são apresentadas várias lightning talks por diversos oradores.",
+                "photo": "lightning.png"
             }
         },
         
         "111": {
+            "title": "Coffee Break",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Coffee Break",
+                "info": "Hora da pausa para o café e guloseimas",
+                "photo": "cafe.png"
+            }
+        },
+        
+        "112": {
+            "title": "Momento para networking",
+            "description": "",
+            "type": "default",
+            "speaker": {
+                "name": "Momento para networking",
+                "info": "Pausa para conhecer quem você não conheceu ainda",
+                "photo": "networking.jpg"
+            }
+        },
+        
+        "113": {
             "title": "[Painel]",
             "description": "",
             "type": "default",
             "speaker": {
                 "name": "Keynotes",
-                "info": "",
+                "info": "Painel sobre o futuro da tecnologia e da linguagem",
                 "photo": ""
             }
         },
         
-        "112": {
+        "114": {
             "title": "Cerimônia de Encerramento",
             "description": "",
             "type": "default",
             "speaker": {
-                "name": "",
-                "info": "",
+                "name": "Keynotes",
+                "info": "Cerimônia de encerramento oficial do evento",
                 "photo": ""
             }
         }
